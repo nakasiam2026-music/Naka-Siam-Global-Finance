@@ -13,7 +13,7 @@
 
 #NakaSiamGlobalFinance #Exness #VTMarkets #Affiliate #นักเทรด
 
-# 🚀 Naka Siam Romeo SMC V10 – เครื่องมือวิเคราะห์ตลาด ฟรี!
+## 🚀 Naka Siam Romeo SMC V10 – เครื่องมือวิเคราะห์ตลาด ฟรี!
 
 **Romeo SMC V10** คือสุดยอดอินดิเคเตอร์สำหรับเทรดเดอร์สาย Smart Money Concept (SMC) ที่ออกแบบมาเพื่อช่วยคุณจับจุดกลับตัวของตลาดอย่างแม่นยำ
 
