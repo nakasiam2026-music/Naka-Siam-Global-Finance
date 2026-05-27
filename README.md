@@ -1,4 +1,4 @@
-Naka Siam Global Finance – ศูนย์รวม Affiliate นักเทรดระดับโลก
+## Naka Siam Global Finance – ศูนย์รวม Affiliate นักเทรดระดับโลก
 
 ✅ Exness – ลงทะเบียน (PC / Mobile) – ใช้ลิงก์เดียวกัน
 👉 https://one.exnessonlinehk.com/a/thngqhnq?platform=mobile
