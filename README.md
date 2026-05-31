@@ -39,7 +39,7 @@
 
 📌 **หมายเหตุ:** Romeo SMC V10 ใช้งานได้ฟรี แต่ TradingView มีแผนให้เลือกตามความเหมาะสม (ฟรี – จ่าย)
 
-# STONE RATIO AI – Gold Trading System (NUBTANG289)
+# STONE RATIO AI – Gold Trading System.
 
 Automated gold trading system. Trend following. Risk controlled. Institutional grade.
 
