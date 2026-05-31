@@ -39,3 +39,35 @@
 
 📌 **หมายเหตุ:** Romeo SMC V10 ใช้งานได้ฟรี แต่ TradingView มีแผนให้เลือกตามความเหมาะสม (ฟรี – จ่าย)
 
+# STONE RATIO AI – Gold Trading System (NUBTANG289)
+
+Automated gold trading system. Trend following. Risk controlled. Institutional grade.
+
+## Key Feature
+
+Master account uses rule of proportion. You can copy to any broker. Any account type.
+
+Copy signal. Adjust lot size by your balance. Works on MT4 and MT5.
+
+## System Spec
+
+- Master Account: Real USC Cent, 1,000 USC
+- Broker: EXNESS
+- Fixed Lot: 0.01 only (No Martingale, No Grid)
+- Filter: Multi-Layer Structural Filtering
+- Risk to Reward: 1:3
+- Verified on Myfxbook (Verified Successfully)
+
+## Subscription Rules
+
+- Fund 1: 2,000 Premium subscribers max
+- Early birds get grandfathered status
+- Fund 2,3,4,5 will open later if system scales
+
+## Live Stats & Sign Up
+
+[https://www.myfxbook.com/portfolio/stone-ratio-ai/12059019](https://www.myfxbook.com/portfolio/stone-ratio-ai/12059019)
+
+## Fee
+
+50 USD per month
