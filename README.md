@@ -1,5 +1,6 @@
 ## Naka Siam Global Finance – ศูนย์รวม Affiliate นักเทรดระดับโลก
-(TH_TH_GOOGLE_C1_PRODUCTSUP_C2_T1_NBP_UNLIMITED_T2_PERFORMANCE_D-3-13_STATIC_1200x1200)
+<img width="1200" height="1200" alt="exness" src="https://github.com/user-attachments/assets/f664ea70-8ca5-4399-a815-a0b6228a77c2" />
+
 
 ✅ Exness – ลงทะเบียน (PC / Mobile) – ใช้ลิงก์เดียวกัน
 👉 https://one.exnessonlinehk.com/a/thngqhnq?platform=mobile
