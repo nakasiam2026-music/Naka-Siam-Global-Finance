@@ -5,7 +5,7 @@
 ✅ Exness – ลงทะเบียน (PC / Mobile) – ใช้ลิงก์เดียวกัน
 👉 https://one.exnessonlinehk.com/a/thngqhnq?platform=mobile
 
-กรอกรหัส: thngqhnq – เพื่อรับสิทธิ์
+## กรอกรหัส: thngqhnq – เพื่อรับสิทธิ์
 (ลิงก์นี้ใช้ได้ – ยกเว้น – ประเทศจีน)
 
 <img width="437" height="666" alt="image" src="https://github.com/user-attachments/assets/b55d7e33-d45e-46f9-bfb6-f27b6d464668" />
