@@ -35,7 +35,7 @@
 > “วิเคราะห์แม่น เทรดคล่อง ด้วย TradingView + Romeo SMC V10”
 
 📌 **หมายเหตุ:** Romeo SMC V10 ใช้งานได้ฟรี แต่ TradingView มีแผนให้เลือกตามความเหมาะสม (ฟรี – จ่าย)
----
+<hr style="border: 1px solid #ffffff;">
 # STONE RATIO AI – Gold Trading System.
 <img width="698" height="889" alt="image" src="https://github.com/user-attachments/assets/1e208b84-1130-4db9-8bee-7e7fc9ac66d3" />
 
