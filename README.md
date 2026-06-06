@@ -7,7 +7,7 @@
 
 # กรอกรหัส: thngqhnq – เพื่อรับสิทธิ์
 (ลิงก์นี้ใช้ได้ – ยกเว้น – ประเทศจีน)
----
+> ---
 # สายเทรดมือ ฟรี อินดิเคเตอร์
 # NAKA SIAM ROMEO SMC V10
 <img width="1839" height="943" alt="image" src="https://github.com/user-attachments/assets/5dc84690-0e88-45ed-80fe-e9fe635e66a6" />
