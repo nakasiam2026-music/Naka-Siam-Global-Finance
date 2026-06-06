@@ -42,7 +42,8 @@
 Automated gold trading system. Trend following. Risk controlled. Institutional grade.
 
 ## Key Feature
-<img width="1593" height="846" alt="image" src="https://github.com/user-attachments/assets/0eef02cb-14f2-4ec2-8a6d-90e04f610f48" />
+<img width="1583" height="841" alt="image" src="https://github.com/user-attachments/assets/a120f06c-4dc4-43c3-96b3-7e191db0df35" />
+
 
 Master account uses rule of proportion. You can copy to any broker. Any account type.
 
