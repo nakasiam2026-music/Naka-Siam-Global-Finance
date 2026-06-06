@@ -71,3 +71,9 @@ Copy signal. Adjust lot size by your balance. Works on MT5.
 ## Fee
 
 50 USD per month
+
+# ฟ้าสั่งรวย 
+# FA SANG RUAY AI
+<img width="1383" height="768" alt="Gemini_Generated_Image_fznbx0fznbx0fznb" src="https://github.com/user-attachments/assets/6baee0ee-490b-4f71-8742-d12f4429fef5" />
+
+
