@@ -40,7 +40,7 @@
 <img width="698" height="889" alt="image" src="https://github.com/user-attachments/assets/1e208b84-1130-4db9-8bee-7e7fc9ac66d3" />
 
 Automated gold trading system. Trend following. Risk controlled. Institutional grade.
-
+<hr style="border: 1px solid #ffffff;">
 ## Key Feature
 <img width="1583" height="841" alt="image" src="https://github.com/user-attachments/assets/a120f06c-4dc4-43c3-96b3-7e191db0df35" />
 
