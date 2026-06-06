@@ -8,14 +8,6 @@
 ## กรอกรหัส: thngqhnq – เพื่อรับสิทธิ์
 (ลิงก์นี้ใช้ได้ – ยกเว้น – ประเทศจีน)
 
-<img width="437" height="666" alt="image" src="https://github.com/user-attachments/assets/b55d7e33-d45e-46f9-bfb6-f27b6d464668" />
-
-✅ VTMarkets – Lucky Money (เครือข่ายภักดี)
-👉 https://vtm.pro/la-com/en/2gLgS92T
-
-📌 ลงทะเบียนผ่านลิงก์นี้ – เพื่อรับ “โปรโมชันพิเศษ” – และ “ค่าคอมมิชชั่นสูง”
-
-#NakaSiamGlobalFinance #Exness #VTMarkets #Affiliate #นักเทรด
 <img width="1839" height="943" alt="image" src="https://github.com/user-attachments/assets/5dc84690-0e88-45ed-80fe-e9fe635e66a6" />
 
 ## 🚀 Naka Siam Romeo SMC V10 – เครื่องมือวิเคราะห์ตลาด ฟรี!
