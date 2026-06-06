@@ -5,7 +5,7 @@
 ✅ Exness – ลงทะเบียน (PC / Mobile) – ใช้ลิงก์เดียวกัน
 👉 https://one.exnessonlinehk.com/a/thngqhnq?platform=mobile
 
-## กรอกรหัส: thngqhnq – เพื่อรับสิทธิ์
+# กรอกรหัส: thngqhnq – เพื่อรับสิทธิ์
 (ลิงก์นี้ใช้ได้ – ยกเว้น – ประเทศจีน)
 ---
 # สายเทรดมือ
