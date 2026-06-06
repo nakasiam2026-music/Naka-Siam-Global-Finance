@@ -38,12 +38,14 @@
 > ---
 # STONE RATIO AI – Gold Trading System.
 <img width="698" height="889" alt="image" src="https://github.com/user-attachments/assets/1e208b84-1130-4db9-8bee-7e7fc9ac66d3" />
+<img width="98" height="98" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (52)" src="https://github.com/user-attachments/assets/150234fd-6329-478f-a70f-40ebf246f159" />
 
 Automated gold trading system. Trend following. Risk controlled. Institutional grade.
 > ---
 ## Key Feature
 <img width="1583" height="841" alt="image" src="https://github.com/user-attachments/assets/a120f06c-4dc4-43c3-96b3-7e191db0df35" />
 
+<img width="98" height="98" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (52)" src="https://github.com/user-attachments/assets/6f606cea-d35b-41d8-b706-9b47c45eedd8" />
 
 Master account uses rule of proportion. You can copy to any broker. Any account type.
 
@@ -67,6 +69,7 @@ Copy signal. Adjust lot size by your balance. Works on MT5.
 ## Live Stats & Sign Up
 
 [https://www.myfxbook.com/portfolio/stone-ratio-ai/12059019](https://www.myfxbook.com/portfolio/stone-ratio-ai/12059019)
+<img width="98" height="98" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (52)" src="https://github.com/user-attachments/assets/01ee39b4-4ed4-4795-97f1-27c37a05cfa2" />
 
 ## Fee
 
