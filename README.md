@@ -7,6 +7,7 @@
 
 ## กรอกรหัส: thngqhnq – เพื่อรับสิทธิ์
 (ลิงก์นี้ใช้ได้ – ยกเว้น – ประเทศจีน)
+---
 # สายเทรดมือ
 # NAKA SIAM ROMEO SMC V10
 <img width="1839" height="943" alt="image" src="https://github.com/user-attachments/assets/5dc84690-0e88-45ed-80fe-e9fe635e66a6" />
@@ -33,10 +34,8 @@
 
 > “วิเคราะห์แม่น เทรดคล่อง ด้วย TradingView + Romeo SMC V10”
 
----
-
 📌 **หมายเหตุ:** Romeo SMC V10 ใช้งานได้ฟรี แต่ TradingView มีแผนให้เลือกตามความเหมาะสม (ฟรี – จ่าย)
-
+---
 # STONE RATIO AI – Gold Trading System.
 <img width="698" height="889" alt="image" src="https://github.com/user-attachments/assets/1e208b84-1130-4db9-8bee-7e7fc9ac66d3" />
 
@@ -71,8 +70,8 @@ Copy signal. Adjust lot size by your balance. Works on MT5.
 
 ## Fee
 
-50 USD per month
-
+# 50 USD per month
+---
 # ฟ้าสั่งรวย 
 # FA SANG RUAY AI
 <img width="1383" height="768" alt="Gemini_Generated_Image_fznbx0fznbx0fznb" src="https://github.com/user-attachments/assets/6baee0ee-490b-4f71-8742-d12f4429fef5" />
