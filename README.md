@@ -69,8 +69,7 @@ Copy signal. Adjust lot size by your balance. Works on MT5.
 - Fund 2,3,4,5 will open later if system scales
 
 ## Live Stats & Sign Up
-
-[[https://www.myfxbook.com/portfolio/stone-ratio-ai/12059019](https://www.myfxbook.com/portfolio/stone-ratio-ai/12059019)](https://www.myfxbook.com/portfolio/fa-sang-ruay-btc/12067990)
+(https://www.myfxbook.com/portfolio/fa-sang-ruay-btc/12067990)
 
 ## Fee
 
