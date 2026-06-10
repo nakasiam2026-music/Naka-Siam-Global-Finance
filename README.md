@@ -71,8 +71,7 @@ Copy signal. Adjust lot size by your balance. Works on MT5.
 
 ## Live Stats & Sign Up
 
-[https://www.myfxbook.com/portfolio/stone-ratio-ai/12059019](https://www.myfxbook.com/portfolio/stone-ratio-ai/12059019)
-<img width="98" height="98" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (52)" src="https://github.com/user-attachments/assets/01ee39b4-4ed4-4795-97f1-27c37a05cfa2" />
+[[https://www.myfxbook.com/portfolio/stone-ratio-ai/12059019](https://www.myfxbook.com/portfolio/stone-ratio-ai/12059019)](https://www.myfxbook.com/portfolio/fa-sang-ruay-btc/12067990)
 
 ## Fee
 
