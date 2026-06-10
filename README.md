@@ -46,7 +46,6 @@
 Automated gold trading system. Trend following. Risk controlled. Institutional grade.
 > ---
 ## Key Feature
-<img width="1583" height="841" alt="image" src="https://github.com/user-attachments/assets/a120f06c-4dc4-43c3-96b3-7e191db0df35" />
 
 <img width="98" height="98" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (52)" src="https://github.com/user-attachments/assets/6f606cea-d35b-41d8-b706-9b47c45eedd8" />
 
