@@ -1,4 +1,4 @@
-## Naka Siam Global Finance – ศูนย์รวม Affiliate นักเทรดระดับโลก
+## Naka Siam Global Finance – ศูนย์รวม Affiliate นักเทรดมืออาชีพ
 <img width="2564" height="1664" alt="Gemini_Generated_Image_vljfw7vljfw7vljf" src="https://github.com/user-attachments/assets/09c54a0f-fc5e-4ad2-ab74-338edddf5e9c" />
 
 
