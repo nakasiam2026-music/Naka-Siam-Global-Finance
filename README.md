@@ -61,6 +61,7 @@ Copy signal. Adjust lot size by your balance. Works on MT5.
 - Filter: Multi-Layer Structural Filtering
 - Risk to Reward: 1:3
 - Verified on Myfxbook (Verified Successfully)
+<img width="1024" height="1024" alt="Gemini_Generated_Image_762ns2762ns2762n" src="https://github.com/user-attachments/assets/f866fe7c-bf8d-4a27-a0e7-510fbf40e7ac" />
 
 ## Subscription Rules
 
