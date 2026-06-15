@@ -4,8 +4,9 @@
 
 <img width="1200" height="1200" alt="exness" src="https://github.com/user-attachments/assets/f664ea70-8ca5-4399-a815-a0b6228a77c2" />
 
-
+## ท่านสามารถสนับสนุนการทำซิกแนลฟรีได้ที่ลิงค์เปิดบัญชี 
 ✅ Exness – ลงทะเบียน (PC / Mobile) – ใช้ลิงก์เดียวกัน
+
 👉 https://one.exnessonlinehk.com/a/thngqhnq?platform=mobile
 
 # กรอกรหัส: thngqhnq – เพื่อรับสิทธิ์
