@@ -40,6 +40,7 @@
 📌 **หมายเหตุ:** Romeo SMC V10 ใช้งานได้ฟรี แต่ TradingView มีแผนให้เลือกตามความเหมาะสม (ฟรี – จ่าย)
 > ---
 # STONE RATIO AI – Gold Trading System.
+## คลิกลิ้งค์ดูผลงาน
 https://www.myfxbook.com/portfolio/stone-ratio-ai-gold/12071458
 
 <img width="698" height="889" alt="image" src="https://github.com/user-attachments/assets/1e208b84-1130-4db9-8bee-7e7fc9ac66d3" />
@@ -72,6 +73,7 @@ Copy signal. Adjust lot size by your balance. Works on MT5.
 - Fund 2,3,4,5 will open later if system scales
 
 ## Live Stats & Sign Up
+## คลิกลิ้งค์ดูผลงาน
 (https://www.myfxbook.com/portfolio/fa-sang-ruay-btc/12067990)
 
 ## Fee
