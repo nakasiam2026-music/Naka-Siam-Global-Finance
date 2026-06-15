@@ -40,6 +40,8 @@
 📌 **หมายเหตุ:** Romeo SMC V10 ใช้งานได้ฟรี แต่ TradingView มีแผนให้เลือกตามความเหมาะสม (ฟรี – จ่าย)
 > ---
 # STONE RATIO AI – Gold Trading System.
+https://www.myfxbook.com/portfolio/stone-ratio-ai-gold/12071458
+
 <img width="698" height="889" alt="image" src="https://github.com/user-attachments/assets/1e208b84-1130-4db9-8bee-7e7fc9ac66d3" />
 <img width="98" height="98" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (52)" src="https://github.com/user-attachments/assets/150234fd-6329-478f-a70f-40ebf246f159" />
 
