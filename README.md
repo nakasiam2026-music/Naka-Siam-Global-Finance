@@ -10,7 +10,7 @@
 👉 https://one.exnessonlinehk.com/a/thngqhnq?platform=mobile
 
 # กรอกรหัส: thngqhnq – เพื่อรับสิทธิ์
-(ลิงก์นี้ใช้ได้ – ยกเว้น – ประเทศจีน)
+(ลิงก์นี้ใช้ได้ทุกประเทศ – ยกเว้น – ประเทศจีน)
 > ---
 # สายเทรดมือ ฟรี อินดิเคเตอร์
 # NAKA SIAM ROMEO SMC V10
