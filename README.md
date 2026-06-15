@@ -73,8 +73,6 @@ Copy signal. Adjust lot size by your balance. Works on MT5.
 - Fund 2,3,4,5 will open later if system scales
 
 ## Live Stats & Sign Up
-## คลิกลิ้งค์ดูผลงาน
-(https://www.myfxbook.com/portfolio/fa-sang-ruay-btc/12067990)
 
 ## Fee
 
@@ -82,6 +80,9 @@ Copy signal. Adjust lot size by your balance. Works on MT5.
 ---
 # ฟ้าสั่งรวย 
 # FA SANG RUAY AI
+## คลิกลิ้งค์ดูผลงาน
+https://www.myfxbook.com/portfolio/fa-sang-ruay-btc/12067990
+
 <img width="1383" height="768" alt="Gemini_Generated_Image_fznbx0fznbx0fznb" src="https://github.com/user-attachments/assets/6baee0ee-490b-4f71-8742-d12f4429fef5" />
 <img width="98" height="98" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (52)" src="https://github.com/user-attachments/assets/a31ef692-a2e7-4496-aa74-e696f241b2c1" />
 <img width="1487" height="677" alt="image" src="https://github.com/user-attachments/assets/5315d286-a132-4110-a0bc-92378ba79497" />
