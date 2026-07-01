@@ -42,7 +42,7 @@
 > ---
 # STONE RATIO AI – Gold Trading System.
 ## คลิกลิ้งค์ดูผลงาน
-https://www.myfxbook.com/portfolio/stone-ratio-ai-gold/12071458
+(https://www.myfxbook.com/members/NITINAN789/stone-ratio-ai-gold/12096195)
 
 <img width="698" height="889" alt="image" src="https://github.com/user-attachments/assets/1e208b84-1130-4db9-8bee-7e7fc9ac66d3" />
 <img width="98" height="98" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (52)" src="https://github.com/user-attachments/assets/150234fd-6329-478f-a70f-40ebf246f159" />
@@ -59,9 +59,9 @@ Copy signal. Adjust lot size by your balance. Works on MT5.
 
 ## System Spec
 
-- Master Account: Real USC Cent, 1,000 USC
+- Master Account: Real USC Cent, 2,000 USC OR 2,000 USD
 - Broker: EXNESS
-- Fixed Lot: 0.01 only (No Martingale, No Grid)
+- Fixed Lot: 0.01 only No Martingale
 - Filter: Multi-Layer Structural Filtering
 - Risk to Reward: 1:3
 - Verified on Myfxbook (Verified Successfully)
