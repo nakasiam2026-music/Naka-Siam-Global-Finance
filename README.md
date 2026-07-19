@@ -42,7 +42,6 @@
 > ---
 # STONE RATIO AI – Gold Trading System.
 ## คลิกลิ้งค์ดูผลงาน
-(https://www.myfxbook.com/members/NITINAN789/stone-ratio-ai-gold/12096195)
 
 <img width="698" height="889" alt="image" src="https://github.com/user-attachments/assets/1e208b84-1130-4db9-8bee-7e7fc9ac66d3" />
 <img width="98" height="98" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (52)" src="https://github.com/user-attachments/assets/150234fd-6329-478f-a70f-40ebf246f159" />
@@ -82,7 +81,6 @@ Copy signal. Adjust lot size by your balance. Works on MT5.
 # ฟ้าสั่งรวย 
 # FA SANG RUAY AI
 ## คลิกลิ้งค์ดูผลงาน
-https://www.myfxbook.com/members/NITINAN789/stone-ratio-ai-gold/12096195)
 
 <img width="1383" height="768" alt="Gemini_Generated_Image_fznbx0fznbx0fznb" src="https://github.com/user-attachments/assets/6baee0ee-490b-4f71-8742-d12f4429fef5" />
 <img width="98" height="98" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ (52)" src="https://github.com/user-attachments/assets/a31ef692-a2e7-4496-aa74-e696f241b2c1" />
