@@ -21,7 +21,7 @@ Sharpe Ratio : 1.41
 Recovery Factor : 3.13
 Max Drawdown : 24.74%
 Total Trades : 472
-Trading Style
+## Trading Style
 
 ## 🟥 High Growth
 
