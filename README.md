@@ -32,4 +32,26 @@ Multi-Timeframe MA Trend Filter
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 
+<img width="3000" height="3000" alt="FaSangRuay_INFINITE" src="https://github.com/user-attachments/assets/8291e0cb-aadd-471a-8f93-07671dab9d08" />
+## 🥈 FaSangRuay INFINITE
+## Total Net Profit
 
+## +$44,261.17
+
+## Performance Metrics
+Profit Factor : 1.13
+Sharpe Ratio : 1.61
+Recovery Factor : 2.12
+Max Drawdown : 28.81%
+Total Trades : 3,153
+## Trading Style
+
+##🟥 High Frequency Grid
+
+## Strategy Features
+## Dynamic Grid System
+Auto Clear Positions
+Dynamic Max Orders
+Portfolio Profit Lock (15%)
+Trailing Stop
+Stop Loss / Take Profit : 4,000 / 12,000 Points
