@@ -10,12 +10,12 @@ Currency : USD
 Results shown below were tested under identical conditions.
 <img width="3000" height="3000" alt="Fast Stone Ratio TH" src="https://github.com/user-attachments/assets/a6f9f56c-21bd-4bb4-ad6c-4d5683066967" />
 
-##🥇 Fast Stone Ratio
+## 🥇 Fast Stone Ratio
 Total Net Profit
 
-##+$46,489.20
+## +$46,489.20
 
-##Performance Metrics
+## Performance Metrics
 Profit Factor : 1.32
 Sharpe Ratio : 1.41
 Recovery Factor : 3.13
@@ -23,9 +23,9 @@ Max Drawdown : 24.74%
 Total Trades : 472
 Trading Style
 
-##🟥 High Growth
+## 🟥 High Growth
 
-Strategy Features
+## Strategy Features
 Grid Trading
 Martingale (MaxSteps = 2)
 Multi-Timeframe MA Trend Filter
