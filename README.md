@@ -33,6 +33,7 @@ Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 
 <img width="3000" height="3000" alt="FaSangRuay_INFINITE" src="https://github.com/user-attachments/assets/8291e0cb-aadd-471a-8f93-07671dab9d08" />
+
 ## 🥈FaSangRuay INFINITE
 ## Total Net Profit
 
@@ -57,6 +58,7 @@ Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 
 <img width="3000" height="3000" alt="NAKA SIAM ROMEO EA" src="https://github.com/user-attachments/assets/2bebb098-fc57-4a90-8d0c-590d7c259247" />
+
 ## 🥉NAKA SIAM ROMEO EA
 ## Total Net Profit
 
