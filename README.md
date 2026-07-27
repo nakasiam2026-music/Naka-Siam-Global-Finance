@@ -1,5 +1,5 @@
 ## 📊 NITHI CIO THAILAND
-Professional MT5 Expert Advisors
+## Professional MT5 Expert Advisors
 
 Backtest Environment
 
@@ -81,7 +81,29 @@ Low Drawdown Design
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 
+<img width="3000" height="3000" alt="EnvelopesThailand" src="https://github.com/user-attachments/assets/d300b2e0-2549-4cd7-9bef-13f019b16b9a" />
 
+## 🏅Envelopes Thailand
+## Total Net Profit
+
+## +$35,589.61
+
+## Performance Metrics
+Profit Factor : 1.30
+Sharpe Ratio : 2.16
+Recovery Factor : 4.21
+Max Drawdown : 14.61%
+Total Trades : 519
+Trading Style
+
+## 🟦Conservative Trend
+
+## Strategy Features
+## Moving Average
+## Envelopes Strategy
+Slope Threshold Filter
+Trailing Stop
+Stop Loss / Take Profit : 4,000 / 12,000 Points
 
 
 
