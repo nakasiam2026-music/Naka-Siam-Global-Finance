@@ -105,7 +105,29 @@ Slope Threshold Filter
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 
+<img width="3000" height="3000" alt="FaSangRuay_TURBO" src="https://github.com/user-attachments/assets/e1418583-e956-4710-a635-abd72b04fbcf" />
 
+## 🏅FaSangRuay TURBO
+## Total Net Profit
+
+## +$35,239.71
+
+## Performance Metrics
+Profit Factor : 1.13
+Sharpe Ratio : 1.46
+Recovery Factor : 3.41
+Max Drawdown : 20.72%
+Total Trades : 2,103
+## Trading Style
+
+## 🟥Dynamic Grid Trading
+
+## Strategy Features
+## Auto Clear
+## Dynamic Max Orders
+Trailing Stop
+High Frequency Execution
+Stop Loss / Take Profit : 4,000 / 12,000 Points
 
 
 
