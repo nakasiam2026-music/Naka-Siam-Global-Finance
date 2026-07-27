@@ -1,13 +1,15 @@
 ## 📊 NITHI CIO THAILAND
 ## Professional MT5 Expert Advisors
+## 👤 About NITHI CIO THAILAND
+## 📩 Contact :  https://www.gogojungle.co.jp/th/tools/indicators/82968
 
-Backtest Environment
+## Backtest Environment
 
-Platform : MetaTrader 5
-Data Quality : 100% Real Ticks
-Test Period : 2 – 2.5 Years
-Currency : USD
-Results shown below were tested under identical conditions.
+## Platform : MetaTrader 5
+## Data Quality : 100% Real Ticks
+## Test Period : 2 – 2.5 Years
+## Currency : USD
+## Results shown below were tested under identical conditions.
 <img width="3000" height="3000" alt="Fast Stone Ratio TH" src="https://github.com/user-attachments/assets/a6f9f56c-21bd-4bb4-ad6c-4d5683066967" />
 
 ## 🥇 Fast Stone Ratio
