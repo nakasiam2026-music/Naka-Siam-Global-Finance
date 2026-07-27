@@ -94,7 +94,8 @@ Sharpe Ratio : 2.16
 Recovery Factor : 4.21
 Max Drawdown : 14.61%
 Total Trades : 519
-Trading Style
+
+## Trading Style
 
 ## 🟦Conservative Trend
 
@@ -142,7 +143,8 @@ Sharpe Ratio : 1.87
 Recovery Factor : 3.78
 Max Drawdown : 18.43%
 Total Trades : 450
-Trading Style
+
+## Trading Style
 
 ## 🟩Balanced Growth
 
@@ -177,8 +179,37 @@ Trading Style
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 
+<img width="3000" height="3000" alt="FaSanRuayTH" src="https://github.com/user-attachments/assets/98b470b4-a3b3-4cd5-99b7-2afbd9468c55" />
 
+## 🏅FaSangRuAY
+## Total Net Profit
 
+## +$18,693.39
+
+## Performance Metrics
+Profit Factor : 1.19
+Sharpe Ratio : 1.58
+Recovery Factor : 1.51
+Max Drawdown : 30.96%
+Total Trades : 1,843
+## Trading Style
+
+## 🟥Adaptive Grid
+
+## Strategy Features
+## Dynamic Pending Distance
+## Auto Position Management
+## Dynamic Max Orders
+Trailing Stop
+Stop Loss / Take Profit : 4,000 / 12,000 Points
+
+## 📌Risk Disclosure
+
+## Past performance does not guarantee future results.
+
+## All Expert Advisors were tested using historical market data under identical testing conditions. Actual trading performance may vary depending on broker conditions, spreads, execution quality, market volatility, and individual risk management.
+
+## Trading leveraged financial products involves substantial risk and may not be suitable for every investor.
 
 
 
