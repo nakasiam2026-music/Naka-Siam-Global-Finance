@@ -214,6 +214,60 @@ Stop Loss / Take Profit : 4,000 / 12,000 Points
 
 ## Trading leveraged financial products involves substantial risk and may not be suitable for every investor.
 
+## NITHI CIO Portfolio Allocation
+## 🟢 Portfolio A — Balanced Portfolio
+Objective: Stable Growth with Balanced Risk
+Asset Allocation
+NAKA SIAM ROMEO EA — 50%
+Fast Stone Ratio — 50%
+Suitable For
+Medium Risk Investors
+Long-Term Portfolio Growth
+Balanced Risk / Return
+Portfolio Character
+Trend Following + Dynamic Grid
+🔵 Portfolio B — Growth Portfolio
+Objective: Higher Growth Potential
+Asset Allocation
+Envelopes Thailand — 40%
+FaSangRuay INFINITE — 60%
+Suitable For
+Growth Investors
+Active Trading
+Higher Return Expectations
+Portfolio Character
+Indicator Strategy + High Frequency Grid
+🟣 Portfolio C — Professional Portfolio
+Objective: Diversified Professional Trading Portfolio
+Asset Allocation
+NAKA SIAM ROMEO EA — 30%
+Envelopes Thailand — 20%
+Fast Stone Ratio — 25%
+FaSangRuay INFINITE — 25%
+Suitable For
+Professional Traders
+Multi-Strategy Portfolio
+Diversified Risk Management
+Portfolio Character
+Trend Following + Mean Reversion + Dynamic Grid + Indicator Strategy
+
+🟡 Portfolio D — Conservative Portfolio
+Objective: Capital Preservation
+Asset Allocation
+Safe Martingale Thailand — 50%
+Envelopes Thailand — 50%
+Suitable for investors who prioritize lower drawdown and stable equity growth over aggressive returns.
+🔴 Portfolio E — Aggressive Portfolio
+Objective: Maximum Growth Potential
+Asset Allocation
+Fast Stone Ratio — 50%
+FaSangRuay TURBO — 50%
+Designed for experienced traders seeking higher return potential while accepting increased portfolio volatility.
+
+Portfolio Philosophy
+Each Expert Advisor has its own trading logic and market behavior. Combining different strategies helps reduce correlation between systems while improving overall portfolio stability.
+Rather than relying on a single Expert Advisor, NITHI CIO Portfolio Allocation focuses on balancing multiple independent trading strategies to pursue more consistent long-term performance.
+
 
 
 
