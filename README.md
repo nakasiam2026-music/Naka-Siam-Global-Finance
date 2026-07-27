@@ -129,8 +129,29 @@ Trailing Stop
 High Frequency Execution
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 
+<img width="3000" height="3000" alt="STONIE RATIO AI" src="https://github.com/user-attachments/assets/53b4bbac-d3a8-4504-96e3-4e95b8f005f2" />
 
+## 🏅STONE RATIO THAILAND
+## Total Net Profit
 
+## +$30,463.75
+
+## Performance Metrics
+Profit Factor : 1.28
+Sharpe Ratio : 1.87
+Recovery Factor : 3.78
+Max Drawdown : 18.43%
+Total Trades : 450
+Trading Style
+
+## 🟩Balanced Growth
+
+## Strategy Features
+## Grid Trading
+Trend Filter (MA MTF)
+Trailing Stop
+Stable Portfolio Management
+Stop Loss / Take Profit : 4,000 / 12,000 Points
 
 
 
