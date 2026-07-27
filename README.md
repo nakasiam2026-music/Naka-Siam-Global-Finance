@@ -33,7 +33,7 @@ Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 
 <img width="3000" height="3000" alt="FaSangRuay_INFINITE" src="https://github.com/user-attachments/assets/8291e0cb-aadd-471a-8f93-07671dab9d08" />
-## 🥈 FaSangRuay INFINITE
+## 🥈FaSangRuay INFINITE
 ## Total Net Profit
 
 ## +$44,261.17
@@ -55,3 +55,56 @@ Dynamic Max Orders
 Portfolio Profit Lock (15%)
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
+
+<img width="3000" height="3000" alt="NAKA SIAM ROMEO EA" src="https://github.com/user-attachments/assets/2bebb098-fc57-4a90-8d0c-590d7c259247" />
+## 🥉NAKA SIAM ROMEO EA
+## Total Net Profit
+
+## +$41,354.38
+
+## Performance Metrics
+Profit Factor : 1.45
+Sharpe Ratio : 2.16
+Recovery Factor : 4.29
+Max Drawdown : 17.62%
+Total Trades : 341
+## Trading Style
+
+## 🟩Balanced Trend Following
+
+## Strategy Features
+## Bollinger Bands Strategy
+## Trend Following
+Low Drawdown Design
+Trailing Stop
+Stop Loss / Take Profit : 4,000 / 12,000 Points
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
