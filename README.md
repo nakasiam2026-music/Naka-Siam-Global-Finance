@@ -2,7 +2,7 @@
 ## Professional MT5 Expert Advisors
 ## 👤 About NITHI CIO THAILAND
 ## 📩 Contact 
-[🔗 ไปที่หน้าโปรไฟล์ GogoJungle ของ NITHI CIO](https://www.gogojungle.co.jp/users/722180)
+https://www.facebook.com/share/p/1Ddh8VcQXR/
 
 ## Backtest Environment
 
