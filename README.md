@@ -153,8 +153,29 @@ Trailing Stop
 Stable Portfolio Management
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 
+<img width="3000" height="3000" alt="Safe Martingale Thailand" src="https://github.com/user-attachments/assets/79047e4f-356c-4102-8aab-9dacd1ae86ae" />
 
+## 🏅Safe Martingale Thailand
+## Total Net Profit
 
+## +$23,670.65
+
+## Performance Metrics
+Profit Factor : 1.46
+Sharpe Ratio : 2.19
+Recovery Factor : 5.36
+Max Drawdown : 12.31%
+Total Trades : 532
+Trading Style
+
+## 🟦Capital Preservation
+
+## Strategy Features
+## Safe Martingale (MaxSteps = 2)
+## Moving Average Filter
+## Envelopes Confirmation
+Trailing Stop
+Stop Loss / Take Profit : 4,000 / 12,000 Points
 
 
 
