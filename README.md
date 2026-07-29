@@ -12,6 +12,7 @@ https://www.facebook.com/share/p/1Ddh8VcQXR/
 ## Currency : USD
 ## Results shown below were tested under identical conditions.
 <img width="3000" height="3000" alt="NITHI CIO System" src="https://github.com/user-attachments/assets/83ea8f20-9e1f-4c65-8854-790b1f00a6bf" />
+
 ## Expert: NITHI CIO System EA
 Symbol: XAUUSDm
 Period: H1 (2024.07.17 - 2026.07.17)
@@ -24,7 +25,7 @@ Period: H1 (2024.07.17 - 2026.07.17)
 แท่งเทียน: 11820 จำนวนติ๊ก: 155930534
 สัญลักษณ์: 1
 
-กำไรสุทธิรวม: 40,725.65
+## กำไรสุทธิรวม: 40,725.65
 
 การลดลงของยอดคงเหลือสัมบูรณ์: 1,975.18
 การลดลงของทุนสัมบูรณ์: 2,260.44
