@@ -11,6 +11,62 @@ https://www.facebook.com/share/p/1Ddh8VcQXR/
 ## Test Period : 2 – 2.5 Years
 ## Currency : USD
 ## Results shown below were tested under identical conditions.
+
+<img width="3000" height="3000" alt="NakaSiam_FixedChannel_EA" src="https://github.com/user-attachments/assets/ca154caf-f519-4773-8143-330a2551f273" />
+
+## รายงานผลการทดสอบกลยุทธ์ (Strategy Tester Report)
+## ผลิตภัณฑ์: NakaSiam_FixedChannel_EA (v3.95)
+
+ตราสาร: XAUUSD (Gold) | Timeframe: M15
+
+ระยะเวลาทดสอบ: 2024.08.04 - 2026.08.04 (คุณภาพข้อมูล: 100% Real Ticks)
+
+1. สรุปผลการดำเนินงานหลัก (Performance Summary)
+ทุนเริ่มต้น (Initial Deposit): 10,000.00 USD
+
+กำไรสุทธิรวม (Total Net Profit): 206,013.00 USD
+
+กำไรขั้นต้น (Gross Profit): 888,696.00 USD
+
+ขาดทุนขั้นต้น (Gross Loss): -682,683.00 USD
+
+แฟกเตอร์กำไร (Profit Factor): 1.30
+
+ผลตอบแทนคาดหวัง (Expected Payoff): 693.65 USD
+
+2. สถิติความเสี่ยงและการถดถอย (Risk & Drawdown)
+Balance Drawdown Maximal: 85,314.00 USD (30.02%)
+
+Equity Drawdown Maximal: 91,368.00 USD (31.70%)
+
+Recovery Factor: 2.25
+
+Sharpe Ratio: 1.51
+
+ระดับมาร์จิ้นคงเหลือเฉลี่ย (Margin Level): 747.95%
+
+3. สถิติการซื้อขาย (Trading Statistics)
+จำนวนไม้ออร์เดอร์ทั้งหมด (Total Trades): 297 ไม้ (Long Trades 100%)
+
+อัตราการชนะ (Win Rate): 44.44% (ชนะ 132 / แพ้ 165 ไม้)
+
+กำไรสูงสุดต่อไม้ (Largest Profit Trade): 13,444.00 USD
+
+ขาดทุนสูงสุดต่อไม้ (Largest Loss Trade): -10,083.00 USD
+
+กำไรเฉลี่ยต่อไม้ที่ชนะ (Average Profit Trade): 6,732.55 USD
+
+ขาดทุนเฉลี่ยต่อไม้ที่แพ้ (Average Loss Trade): -4,137.47 USD
+
+4. สถิติความต่อเนื่องของออร์เดอร์ (Consecutive Statistics)
+ชนะติดต่อกันสูงสุด (Maximum Consecutive Wins): 6 ไม้ (20,908.00 USD)
+
+แพ้ติดต่อกันสูงสุด (Maximum Consecutive Losses): 14 ไม้ (-56,696.00 USD)
+
+ค่าเฉลี่ยชนะติดต่อกัน (Average Consecutive Wins): 2
+
+ค่าเฉลี่ยแพ้ติดต่อกัน (Average Consecutive Losses): 2
+
 <img width="3000" height="3000" alt="NITHI CIO System" src="https://github.com/user-attachments/assets/83ea8f20-9e1f-4c65-8854-790b1f00a6bf" />
 
 ## Expert: NITHI CIO System EA
