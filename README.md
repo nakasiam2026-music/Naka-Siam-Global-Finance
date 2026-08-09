@@ -13,22 +13,22 @@ https://www.facebook.com/share/p/1Ddh8VcQXR/
 ## Results shown below were tested under identical conditions.
 ___________________________________________________________________________
 <img width="3000" height="3000" alt="NAKA SIAM_BREAKOUT" src="https://github.com/user-attachments/assets/86945ef1-2d23-44f9-90e7-77b34a8cfce0" />
-## สรุปข้อมูลระบบเทรด: NAKA SIAM BREAKOUT
+# สรุปข้อมูลระบบเทรด: NAKA SIAM BREAKOUT
 
-## 1. ข้อมูลทั่วไปของระบบ (General Information)
-## ชื่อกลยุทธ์: NakaSiam_Breakout
+# 1. ข้อมูลทั่วไปของระบบ (General Information)
+# ชื่อกลยุทธ์: NakaSiam_Breakout
 ### สินทรัพย์ที่ทดสอบ (Symbol): XAUUSD (ทองคำ)
 ### กรอบเวลา (Timeframe): H1 (1 ชั่วโมง)
 ### ประเภทกลยุทธ์: ระบบ Breakout ตามกรอบราคา (Price Channel) ผสานระบบบริหารจัดการไม้แบบ Grid และระบบล็อกกำไรรวมเป็นชุดอัตโนมัติ
-## 2. ผลการทดสอบย้อนหลัง (Backtest Results)
+# 2. ผลการทดสอบย้อนหลัง (Backtest Results)
 ### ระยะเวลาทดสอบ: 2 ปีเต็ม (04.08.2024 - 04.08.2026)
 ### คุณภาพข้อมูล (History Quality): 100% Real Ticks (ความแม่นยำสูงสุด)
 ### ทุนเริ่มต้น (Initial Deposit): 10,000.00 USD
-## กำไรสุทธิรวม (Total Net Profit): +252,541.20 USD (เติบโตกว่า 25 เท่า)
+# กำไรสุทธิรวม (Total Net Profit): +252,541.20 USD (เติบโตกว่า 25 เท่า)
 ### ตัวคูณกำไร (Profit Factor): 1.44
 ### ค่าแฟกเตอร์การฟื้นตัว (Recovery Factor): 3.01
 ### อัตราส่วนชาร์ป (Sharpe Ratio): 1.55
-## 3. สถิติการซื้อขาย (Trading Performance)
+# 3. สถิติการซื้อขาย (Trading Performance)
 ## จำนวนออเดอร์ทั้งหมด (Total Trades): 1,564Trades (อัตราการชนะรวม 73.66%)
 ### ฝั่งซื้อ (Long Trades): ชนะ 80.92% (1,342 Trades)
 ### ฝั่งขาย (Short Trades): ชนะ 29.73% (222 Trades)
