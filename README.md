@@ -166,7 +166,9 @@ ________________________________________________________________________________
 ### ค่าเฉลี่ยชนะติดต่อกัน (Average Consecutive Wins): 2
 ### ค่าเฉลี่ยแพ้ติดต่อกัน (Average Consecutive Losses): 2
 _______________________________________________________________________
-<img width="3000" height="3000" alt="NAKA SIAM_BREAKOUT" src="https://github.com/user-attachments/assets/86945ef1-2d23-44f9-90e7-77b34a8cfce0" />
+| กล่อง EA | รายละเอียดราคา |
+| :---: | :---: |
+| <img width="100%" alt="NAKA SIAM_BREAKOUT" src="https://github.com/user-attachments/assets/86945ef1-2d23-44f9-90e7-77b34a8cfce0" /> | <img width="100%" alt="Price1" src="https://github.com/user-attachments/assets/a3336d64-0cee-4ca9-88ec-6476d16a0c4a" /> |
 # สรุปข้อมูลระบบเทรด: NAKA SIAM BREAKOUT
 
 # 1. ข้อมูลทั่วไปของระบบ (General Information)
