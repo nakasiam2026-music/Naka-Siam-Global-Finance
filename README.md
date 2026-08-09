@@ -39,7 +39,7 @@ ___________________________________________________________________________
 ### ขาดทุนสูงสุดต่อไม้ (Largest Loss Trade): -10,083.00 USD
 ### กำไรเฉลี่ยต่อไม้ที่ชนะ (Average Profit Trade): 6,732.55 USD
 ### ขาดทุนเฉลี่ยต่อไม้ที่แพ้ (Average Loss Trade): -4,137.47 USD
-#4. สถิติความต่อเนื่องของออร์เดอร์ (Consecutive Statistics)
+# 4. สถิติความต่อเนื่องของออร์เดอร์ (Consecutive Statistics)
 ### ชนะติดต่อกันสูงสุด (Maximum Consecutive Wins): 6 ไม้ (20,908.00 USD)
 ### แพ้ติดต่อกันสูงสุด (Maximum Consecutive Losses): 14 ไม้ (-56,696.00 USD)
 ### ค่าเฉลี่ยชนะติดต่อกัน (Average Consecutive Wins): 2
