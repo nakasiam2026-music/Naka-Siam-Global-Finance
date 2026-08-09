@@ -259,48 +259,35 @@ ________________________________________________________________________________
 
 ## ข้อมูลเชิงสถิติจากการทดสอบย้อนหลัง (Backtest Performance Summary)
 ข้อมูลจากการทดสอบด้วยข้อมูลตลาดย้อนหลัง (Historical Data) 100% Real Ticks ระหว่างวันที่ 26 กรกฎาคม 2024 ถึง 31 กรกฎาคม 2026:
-
 เงินทุนเริ่มต้น (Initial Deposit): 10,000.00 USD
-
 ## กำไรสุทธิรวม (Total Net Profit): 78,554.68 USD
-
 อัตราส่วนกำไร (Profit Factor): 1.19
-
 ## อัตราความสำเร็จ (Win Rate): 76.94% (จากคำสั่งซื้อขายทั้งหมด 6,148 รายการ)
-
 ## ค่าการกู้คืนพอร์ต (Recovery Factor): 4.47
-
 ## ความเสี่ยงสูงสุดของพอร์ต (Max Equity Drawdown): 20.18%
-
 สถิติการขาดทุนต่อเนื่องสูงสุด (Max Consecutive Losses): 30 รายการ (-9,139.34 USD)
-
 พารามิเตอร์หลักและการตั้งค่า (Key Parameters)
 เครื่องมือที่รองรับ (Symbol): BTCUSDm (แนะนำกรอบเวลา M15)
-
 การจัดการความเสี่ยง (Risk Management):
-
 InpBaseLot: 0.1 (ต่อทุนเริ่มต้น 10,000 USD)
 
 ## InpTargetPercent: 2% (เป้าหมายการปิดคำสั่งสะสมอัตโนมัติเมื่อถึงกำไรที่กำหนด)
-
 InpMaxOrders: 10 คำสั่ง (จำกัดจำนวนไมไม้สูงสุดต่อรอบการทำงาน)
-
 InpStopLoss / InpTakeProfit: 300,000 (300 pips) / 500,000 (500 pips) (กรอบจำกัดความเสี่ยงระดับโครงสร้าง)
-
 ## ระบบการติดตามราคาและโมเมนตั้ม (Dynamic Trailing & Momentum Settings):
-
 เปิดใช้งานระบบ Trailing เริ่มต้นที่ระยะ 300,000 (300 pips) และขยับทีละ 200,000 (200 pips)
-
 ค่าเฉลี่ย SMA Period 50 และตัวกรองความชัน (Min Slope 0.0001) สำหรับคัดกรองทิศทางแนวโน้ม
-
 ## คำแนะนำสำหรับผู้ใช้งาน (User Guidelines & Risk Disclosure)
 ธรรมชาติของสินทรัพย์: Bitcoin เป็นสินทรัพย์ที่มีความผันผวนสูงมาก ผู้ใช้งานควรทำความเข้าใจและยอมรับความเสี่ยงที่อาจเกิดขึ้นจากสภาพตลาดที่รุนแรง
-
 การบริหารเงินทุน: แนะนำให้ตั้งค่าขนาดล็อต (Lot Size) ให้สอดคล้องกับเงินทุนจริงของท่าน และควรมีการบริหารจัดการพอร์ตอย่างเหมาะสม (Money Management)
 หากลดสัดส่วน ให้ลดตามสัดส่วนที่สัมพันธ์กันทุกอย่าง ยกเว้น ระยะ ห้ามปรับ 
 ________________________________________________________________________________________________________________________________
 <img width="3000" height="3000" alt="NAKA SIAM_BREAKOUT" src="https://github.com/user-attachments/assets/dde9494e-17a6-4039-9894-10a9e066b460" />
+<br><br>
 
+<img width="80%" alt="Price1" src="https://github.com/user-attachments/assets/c30df516-2933-4e07-97b2-01cb1e06cd11" />
+
+</div>
 ## สรุปข้อมูลระบบเทรด: NAKA SIAM BREAKOUT
 ## 1. ข้อมูลทั่วไปของระบบ (General Information)
 ชื่อกลยุทธ์: NakaSiam_Breakout
@@ -332,7 +319,7 @@ InpUseATR: True (ใช้ ATR คำนวณจุด Take Profit และ St
 __________________________________________________________________________________________________________________________
 
 <img width="3000" height="3000" alt="NakaSiam_FixedChannel_EA" src="https://github.com/user-attachments/assets/ca154caf-f519-4773-8143-330a2551f273" />
-
+<img width="685" height="353" alt="a" src="https://github.com/user-attachments/assets/922a7e73-9852-4871-9bf2-ca690dbc2c0c" />
 ## รายงานผลการทดสอบกลยุทธ์ (Strategy Tester Report)
 ## ผลิตภัณฑ์: NakaSiam_FixedChannel_EA (v3.95)
 ตราสาร: XAUUSD (Gold) | Timeframe: M15
