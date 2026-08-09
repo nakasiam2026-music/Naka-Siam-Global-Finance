@@ -212,7 +212,7 @@ _______________________________________________________________________
 ### ชนะติดต่อกันสูงสุด (Maximum Consecutive Wins): 34 ครั้ง (มูลค่า 17,447.70 USD)
 _________________________________________________________________________
 <img width="3000" height="3000" alt="NAKA ROCK" src="https://github.com/user-attachments/assets/63481b6b-0fcb-400c-9fed-98e01ef2b864" />
-
+<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/eb0f833a-0e62-4f16-8f20-16b6f260d477" />
 
 ## Expert Advisor Suite - เวอร์ชันล่าสุด)
 ## ชื่อสินค้า / แบรนด์: NAKA ROCK (ซีรีส์พรีเมียมตระกูลพญานาค / The Mountain Series)
@@ -248,6 +248,7 @@ Step Trailing Stop: ระบบล็อกกำไรอัตโนมัต
 _____________________________________________________________________________________________________________________
 
 <img width="3000" height="3000" alt="OROCHI_BTC" src="https://github.com/user-attachments/assets/e455a08d-4178-4140-bd31-df366822719e" />
+<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/80651c94-7aac-440e-ade9-6e2d827ef44e" />
 
 ## แนวคิดและหลักการทำงานของระบบ (Strategy Overview)
 ## OROCHI-BTC Momentum-Hunter เป็นระบบซื้อขายอัตโนมัติ (Expert Advisor) 
@@ -301,55 +302,32 @@ ________________________________________________________________________________
 <img width="3000" height="3000" alt="NAKA SIAM_BREAKOUT" src="https://github.com/user-attachments/assets/dde9494e-17a6-4039-9894-10a9e066b460" />
 
 ## สรุปข้อมูลระบบเทรด: NAKA SIAM BREAKOUT
-
 ## 1. ข้อมูลทั่วไปของระบบ (General Information)
 ชื่อกลยุทธ์: NakaSiam_Breakout
-
 สินทรัพย์ที่ทดสอบ (Symbol): XAUUSD (ทองคำ)
-
 กรอบเวลา (Timeframe): H1 (1 ชั่วโมง)
-
 ประเภทกลยุทธ์: ระบบ Breakout ตามกรอบราคา (Price Channel) ผสานระบบบริหารจัดการไม้แบบ Grid และระบบล็อกกำไรรวมเป็นชุดอัตโนมัติ
-
 ## 2. ผลการทดสอบย้อนหลัง (Backtest Results)
 ระยะเวลาทดสอบ: 2 ปีเต็ม (04.08.2024 - 04.08.2026)
-
 คุณภาพข้อมูล (History Quality): 100% Real Ticks (ความแม่นยำสูงสุด)
-
 ทุนเริ่มต้น (Initial Deposit): 10,000.00 USD
-
 ## กำไรสุทธิรวม (Total Net Profit): +252,541.20 USD (เติบโตกว่า 25 เท่า)
-
 ตัวคูณกำไร (Profit Factor): 1.44
-
 ค่าแฟกเตอร์การฟื้นตัว (Recovery Factor): 3.01
-
 อัตราส่วนชาร์ป (Sharpe Ratio): 1.55
-
 ## 3. สถิติการซื้อขาย (Trading Performance)
 จำนวนออเดอร์ทั้งหมด (Total Trades): 1,564Trades (อัตราการชนะรวม 73.66%)
-
 ฝั่งซื้อ (Long Trades): ชนะ 80.92% (1,342 Trades)
-
 ฝั่งขาย (Short Trades): ชนะ 29.73% (222 Trades)
-
 กำไรเฉลี่ยต่อไม้ (Average Profit Trade): 712.10 USD
-
 ขาดทุนเฉลี่ยต่อไม้ (Average Loss Trade): -1,378.16 USD
-
 ชนะติดต่อกันสูงสุด (Maximum Consecutive Wins): 34 ครั้ง (มูลค่า 17,447.70 USD)
-
 ## 4. การตั้งค่าพารามิเตอร์หลัก (Inputs Configuration)
 InpChannelPeriod: 12 (กรอบเวลาแนวรับ-แนวต้าน 12 แท่งเทียน)
-
 InpFixedLot: 0.15 (ขนาดล็อตคงที่ต่อไม้)
-
 InpMaxOrders: 20 (จำนวนออเดอร์สูงสุดต่อฝั่ง)
-
 InpGridStepPoints: 100 (ระยะห่างระหว่างไม้ 100 จุด)
-
 InpTakeProfitPct: 10.0% (ระบบปิดรวบกำไรอัตโนมัติเมื่อถึง 10% ของบาลานซ์ แล้วเริ่มรอบใหม่ทันที)
-
 InpUseATR: True (ใช้ ATR คำนวณจุด Take Profit และ Stop Loss อัตโนมัติ โดยมีค่า TP Multiplier = 24.0 และ SL Multiplier = 8.0)
 __________________________________________________________________________________________________________________________
 
@@ -357,57 +335,33 @@ ________________________________________________________________________________
 
 ## รายงานผลการทดสอบกลยุทธ์ (Strategy Tester Report)
 ## ผลิตภัณฑ์: NakaSiam_FixedChannel_EA (v3.95)
-
 ตราสาร: XAUUSD (Gold) | Timeframe: M15
-
 ## ระยะเวลาทดสอบ: 2024.08.04 - 2026.08.04 (คุณภาพข้อมูล: 100% Real Ticks)
-
 ## 1. สรุปผลการดำเนินงานหลัก (Performance Summary)
 ทุนเริ่มต้น (Initial Deposit): 10,000.00 USD
-
 กำไรสุทธิรวม (Total Net Profit): 206,013.00 USD
-
 กำไรขั้นต้น (Gross Profit): 888,696.00 USD
-
 ขาดทุนขั้นต้น (Gross Loss): -682,683.00 USD
-
 แฟกเตอร์กำไร (Profit Factor): 1.30
-
 ผลตอบแทนคาดหวัง (Expected Payoff): 693.65 USD
-
 ## 2. สถิติความเสี่ยงและการถดถอย (Risk & Drawdown)
 Balance Drawdown Maximal: 85,314.00 USD (30.02%)
-
 Equity Drawdown Maximal: 91,368.00 USD (31.70%)
-
 Recovery Factor: 2.25
-
 Sharpe Ratio: 1.51
-
 ระดับมาร์จิ้นคงเหลือเฉลี่ย (Margin Level): 747.95%
-
 ## 3. สถิติการซื้อขาย (Trading Statistics)
 จำนวนไม้ออร์เดอร์ทั้งหมด (Total Trades): 297 ไม้ (Long Trades 100%)
-
 อัตราการชนะ (Win Rate): 44.44% (ชนะ 132 / แพ้ 165 ไม้)
-
 กำไรสูงสุดต่อไม้ (Largest Profit Trade): 13,444.00 USD
-
 ขาดทุนสูงสุดต่อไม้ (Largest Loss Trade): -10,083.00 USD
-
 กำไรเฉลี่ยต่อไม้ที่ชนะ (Average Profit Trade): 6,732.55 USD
-
 ขาดทุนเฉลี่ยต่อไม้ที่แพ้ (Average Loss Trade): -4,137.47 USD
-
 ## 4. สถิติความต่อเนื่องของออร์เดอร์ (Consecutive Statistics)
 ชนะติดต่อกันสูงสุด (Maximum Consecutive Wins): 6 ไม้ (20,908.00 USD)
-
 แพ้ติดต่อกันสูงสุด (Maximum Consecutive Losses): 14 ไม้ (-56,696.00 USD)
-
 ค่าเฉลี่ยชนะติดต่อกัน (Average Consecutive Wins): 2
-
 ค่าเฉลี่ยแพ้ติดต่อกัน (Average Consecutive Losses): 2
-
 <img width="3000" height="3000" alt="NITHI CIO System" src="https://github.com/user-attachments/assets/83ea8f20-9e1f-4c65-8854-790b1f00a6bf" />
 
 ## Expert: NITHI CIO System EA
