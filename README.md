@@ -96,6 +96,8 @@ Take Profit (TP): 12,000 จุด
 และระบบตรวจสอบความถูกต้องของตั๋ว/Symbol/Magic Number ป้องกันข้อผิดพลาดในการปิดออเดอร์อย่างสมบูรณ์
 ___________________________________________________________________________
 <img width="3000" height="3000" alt="ICHIMOKU NAKA" src="https://github.com/user-attachments/assets/5e97bc6e-7a4c-4006-a3b7-2e79f8672202" /><img width="3000" height="3000" alt="ICHIMOKU NAKA 2" src="https://github.com/user-attachments/assets/2493c4c8-6820-4843-99a3-f120c74918a4" />
+<img width="686" height="349" alt="g" src="https://github.com/user-attachments/assets/a3160309-ef0f-465b-93a0-b3827885380b" />
+
 ## 👑 ข้อมูลผลิตภัณฑ์: Ichimoku_NAKA (Professional Expert Advisor Suite - เวอร์ชันล่าสุด)
 # ชื่อสินค้า / แบรนด์
 # ICHIMOKU NAKA
