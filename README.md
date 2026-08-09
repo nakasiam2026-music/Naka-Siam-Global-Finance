@@ -17,24 +17,24 @@ ___________________________________________________________________________
 
 ## 1. ข้อมูลทั่วไปของระบบ (General Information)
 ## ชื่อกลยุทธ์: NakaSiam_Breakout
-สินทรัพย์ที่ทดสอบ (Symbol): XAUUSD (ทองคำ)
-กรอบเวลา (Timeframe): H1 (1 ชั่วโมง)
-ประเภทกลยุทธ์: ระบบ Breakout ตามกรอบราคา (Price Channel) ผสานระบบบริหารจัดการไม้แบบ Grid และระบบล็อกกำไรรวมเป็นชุดอัตโนมัติ
+### สินทรัพย์ที่ทดสอบ (Symbol): XAUUSD (ทองคำ)
+### กรอบเวลา (Timeframe): H1 (1 ชั่วโมง)
+### ประเภทกลยุทธ์: ระบบ Breakout ตามกรอบราคา (Price Channel) ผสานระบบบริหารจัดการไม้แบบ Grid และระบบล็อกกำไรรวมเป็นชุดอัตโนมัติ
 ## 2. ผลการทดสอบย้อนหลัง (Backtest Results)
-ระยะเวลาทดสอบ: 2 ปีเต็ม (04.08.2024 - 04.08.2026)
-คุณภาพข้อมูล (History Quality): 100% Real Ticks (ความแม่นยำสูงสุด)
-ทุนเริ่มต้น (Initial Deposit): 10,000.00 USD
+### ระยะเวลาทดสอบ: 2 ปีเต็ม (04.08.2024 - 04.08.2026)
+### คุณภาพข้อมูล (History Quality): 100% Real Ticks (ความแม่นยำสูงสุด)
+### ทุนเริ่มต้น (Initial Deposit): 10,000.00 USD
 ## กำไรสุทธิรวม (Total Net Profit): +252,541.20 USD (เติบโตกว่า 25 เท่า)
-ตัวคูณกำไร (Profit Factor): 1.44
-ค่าแฟกเตอร์การฟื้นตัว (Recovery Factor): 3.01
-อัตราส่วนชาร์ป (Sharpe Ratio): 1.55
+### ตัวคูณกำไร (Profit Factor): 1.44
+### ค่าแฟกเตอร์การฟื้นตัว (Recovery Factor): 3.01
+### อัตราส่วนชาร์ป (Sharpe Ratio): 1.55
 ## 3. สถิติการซื้อขาย (Trading Performance)
 ## จำนวนออเดอร์ทั้งหมด (Total Trades): 1,564Trades (อัตราการชนะรวม 73.66%)
-ฝั่งซื้อ (Long Trades): ชนะ 80.92% (1,342 Trades)
-ฝั่งขาย (Short Trades): ชนะ 29.73% (222 Trades)
-กำไรเฉลี่ยต่อไม้ (Average Profit Trade): 712.10 USD
-ขาดทุนเฉลี่ยต่อไม้ (Average Loss Trade): -1,378.16 USD
-ชนะติดต่อกันสูงสุด (Maximum Consecutive Wins): 34 ครั้ง (มูลค่า 17,447.70 USD)
+### ฝั่งซื้อ (Long Trades): ชนะ 80.92% (1,342 Trades)
+### ฝั่งขาย (Short Trades): ชนะ 29.73% (222 Trades)
+### กำไรเฉลี่ยต่อไม้ (Average Profit Trade): 712.10 USD
+### ขาดทุนเฉลี่ยต่อไม้ (Average Loss Trade): -1,378.16 USD
+### ชนะติดต่อกันสูงสุด (Maximum Consecutive Wins): 34 ครั้ง (มูลค่า 17,447.70 USD)
 _________________________________________________________________________
 <img width="3000" height="3000" alt="NAKA ROCK" src="https://github.com/user-attachments/assets/63481b6b-0fcb-400c-9fed-98e01ef2b864" />
 
