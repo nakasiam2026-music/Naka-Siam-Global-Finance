@@ -168,7 +168,7 @@ ________________________________________________________________________________
 _______________________________________________________________________
 | กล่อง EA | รายละเอียดราคา |
 | :---: | :---: |
-| <img width="100%" alt="NAKA SIAM_BREAKOUT" src="https://github.com/user-attachments/assets/86945ef1-2d23-44f9-90e7-77b34a8cfce0" /> | <img width="100%" alt="Price1" src="https://github.com/user-attachments/assets/a3336d64-0cee-4ca9-88ec-6476d16a0c4a" /> |
+| <img width="100%" alt="NAKA SIAM_BREAKOUT" src="https://github.com/user-attachments/assets/86945ef1-2d23-44f9-90e7-77b34a8cfce0" /> | <img width="691" height="355" alt="Price1" src="https://github.com/user-attachments/assets/c30df516-2933-4e07-97b2-01cb1e06cd11" /> |
 # สรุปข้อมูลระบบเทรด: NAKA SIAM BREAKOUT
 
 # 1. ข้อมูลทั่วไปของระบบ (General Information)
