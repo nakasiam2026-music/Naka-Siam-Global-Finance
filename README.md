@@ -284,6 +284,7 @@ InpStopLoss / InpTakeProfit: 300,000 (300 pips) / 500,000 (500 pips) (กรอ�
 ________________________________________________________________________________________________________________________________
 
 <img width="3000" height="3000" alt="NITHI CIO System" src="https://github.com/user-attachments/assets/83ea8f20-9e1f-4c65-8854-790b1f00a6bf" />
+<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/06a0f6d9-f1d8-41e9-aca0-977381465597" />
 
 ## Expert: NITHI CIO System EA
 Symbol: XAUUSDm
@@ -339,8 +340,9 @@ GHPR: 1.0031 (0.31%)
 ขาดทุนติดต่อกันสูงสุด (จำนวน): -6,475.73 (12)
 กำไรติดต่อกันเฉลี่ย: 2
 ขาดทุนติดต่อกันเฉลี่ย: 2
-
+___________________________________________________________________________________________________
 <img width="3000" height="3000" alt="NUBTANG INFINITE THROME" src="https://github.com/user-attachments/assets/e0974ceb-5c6b-48fb-b632-27e37b307dac" />
+<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/27ca061f-ad4c-418a-bdef-39aace51bb17" />
 
 
 ## Expert: NUBTANG_INFINITE_THRONE
@@ -398,7 +400,7 @@ GHPR: 1.0057 (0.57%)
 กำไรติดต่อกันสูงสุด (จำนวน): 11,780.92 (6) การขาดทุนติดต่อกันสูงสุด (จำนวน): -16,924.12 (11)
 การชนะติดต่อกันเฉลี่ย: 2
 การขาดทุนติดต่อกันเฉลี่ย: 2
-
+________________________________________________________________________________________________________
 <img width="3000" height="3000" alt="Fast Stone Ratio TH" src="https://github.com/user-attachments/assets/a6f9f56c-21bd-4bb4-ad6c-4d5683066967" />
 
 ## 🥇 Fast Stone Ratio
@@ -422,7 +424,7 @@ Martingale (MaxSteps = 2)
 Multi-Timeframe MA Trend Filter
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
-
+_______________________________________________________________________________________________
 <img width="3000" height="3000" alt="FaSangRuay_INFINITE" src="https://github.com/user-attachments/assets/8291e0cb-aadd-471a-8f93-07671dab9d08" />
 
 ## 🥈FaSangRuay INFINITE
@@ -447,7 +449,7 @@ Dynamic Max Orders
 Portfolio Profit Lock (15%)
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
-
+_____________________________________________________________________________________________
 <img width="3000" height="3000" alt="NAKA SIAM ROMEO EA" src="https://github.com/user-attachments/assets/2bebb098-fc57-4a90-8d0c-590d7c259247" />
 
 ## 🥉NAKA SIAM ROMEO EA
@@ -471,7 +473,7 @@ Total Trades : 341
 Low Drawdown Design
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
-
+___________________________________________________________________________________________
 <img width="3000" height="3000" alt="EnvelopesThailand" src="https://github.com/user-attachments/assets/d300b2e0-2549-4cd7-9bef-13f019b16b9a" />
 
 ## 🏅Envelopes Thailand
@@ -496,7 +498,7 @@ Total Trades : 519
 Slope Threshold Filter
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
-
+______________________________________________________________________________________________
 <img width="3000" height="3000" alt="FaSangRuay_TURBO" src="https://github.com/user-attachments/assets/e1418583-e956-4710-a635-abd72b04fbcf" />
 
 ## 🏅FaSangRuay TURBO
@@ -520,7 +522,7 @@ Total Trades : 2,103
 Trailing Stop
 High Frequency Execution
 Stop Loss / Take Profit : 4,000 / 12,000 Points
-
+____________________________________________________________________________________________
 <img width="3000" height="3000" alt="STONIE RATIO AI" src="https://github.com/user-attachments/assets/53b4bbac-d3a8-4504-96e3-4e95b8f005f2" />
 
 ## 🏅STONE RATIO THAILAND
@@ -545,7 +547,7 @@ Trend Filter (MA MTF)
 Trailing Stop
 Stable Portfolio Management
 Stop Loss / Take Profit : 4,000 / 12,000 Points
-
+_______________________________________________________________________________________________
 <img width="3000" height="3000" alt="Safe Martingale Thailand" src="https://github.com/user-attachments/assets/79047e4f-356c-4102-8aab-9dacd1ae86ae" />
 
 ## 🏅Safe Martingale Thailand
@@ -569,7 +571,7 @@ Trading Style
 ## Envelopes Confirmation
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
-
+___________________________________________________________________________________________
 <img width="3000" height="3000" alt="FaSanRuayTH" src="https://github.com/user-attachments/assets/98b470b4-a3b3-4cd5-99b7-2afbd9468c55" />
 
 ## 🏅FaSangRuAY
@@ -655,7 +657,7 @@ Designed for experienced traders seeking higher return potential while accepting
 ## Portfolio Philosophy
 Each Expert Advisor has its own trading logic and market behavior. Combining different strategies helps reduce correlation between systems while improving overall portfolio stability.
 Rather than relying on a single Expert Advisor, NITHI CIO Portfolio Allocation focuses on balancing multiple independent trading strategies to pursue more consistent long-term performance.
-
+_________________________________________________________________________________________________________________
 
 
 
