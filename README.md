@@ -13,6 +13,71 @@ https://www.facebook.com/share/p/1Ddh8VcQXR/
 ## Results shown below were tested under identical conditions.
 ___________________________________________________________________________
 
+👑 ข้อมูลผลิตภัณฑ์: Ichimoku_NAKA (Professional Expert Advisor Suite - เวอร์ชันล่าสุด)
+ชื่อสินค้า / แบรนด์
+ICHIMOKU NAKA
+(ซีรีส์พรีเมียมตระกูลพญานาค / The Mountain Series – รุ่นพลังอิชิโมกุ)
+
+สินทรัพย์ที่รองรับ (Symbol):
+XAUUSD (ทองคำ)
+
+กรอบเวลา (Period):
+H1 (Hourly Chart)
+
+ผลการทดสอบย้อนหลัง (Backtest Results - อัปเดตล่าสุด):
+
+ช่วงเวลาทดสอบ: 2024.08.04 – 2026.08.05 (ข้อมูลย้อนหลัง 2 ปีเต็ม แบบ Real Ticks ความละเอียด 100%)
+
+เงินทุนเริ่มต้น (Initial Deposit): $10,000.00
+
+เลเวอเรจ (Leverage): 1:500 (MT5 Real)
+
+กำไรสุทธิรวม (Total Net Profit): $335,249.91 (พุ่งทะยานขั้นสุด)
+
+อัตราส่วนกำไร (Profit Factor): 1.23 (แข็งแกร่งและเสถียรยิ่งขึ้น)
+
+แฟกเตอร์การกู้คืน (Recovery Factor): 2.11
+
+อัตราส่วน Sharpe (Sharpe Ratio): 1.95 (เสถียรภาพสูงระดับมาสเตอร์พีซ)
+
+LR Correlation (ความชันเส้นกำไร): 0.89 (การันตีเส้นพอร์ตพุ่งขึ้นเป็นระเบียบ)
+
+จำนวนการเทรดทั้งหมด (Total Trades): 752 ออเดอร์ (ฝั่ง Short 45.08% / Long 36.72%)
+
+⚙️ จุดเด่นและระบบบริหารความเสี่ยง (Settings & Features - เวอร์ชันล่าสุด)
+Slope & Strategy Settings:
+ขับเคลื่อนด้วยระบบ Ichimoku (Tenkan = 9 / Kijun = 26 / Senkou Span B = 52) ผสานกับความชัน SMA 22 (InpMAPeriod = 22) พร้อมกรองสัญญาณด้วยเงื่อนไขความชัน (InpSlopeThreshold = 0.5) ไม่ทำนายตลาด แต่ปีนป่ายไปตามโมเมนตัมและความชันที่แท้จริง
+
+Invisible Grid (กริดล่องหน):
+เติมไม้กลางทางโดยไม่ต้องวาง Pending ให้ใครเห็น เปิดตำแหน่งเพิ่มตามระยะที่ตั้ง (GridDistance = 4000) จำกัดจำนวนไม้ไม่เกิน 2 ไม้ (MaxGridOrders = 2) เพื่อควบคุมความเสี่ยงแบบจัดเต็ม
+
+Step Trailing Stop:
+ระบบล็อกกำไรอัตโนมัติแบบเป็นขั้นบันได (TrailStart = 4000 / TrailStep = 4000) ล็อกกำไรแล้วเดินหน้าลุยต่ออย่างไร้ความกังวล
+
+Risk Management & Target:
+
+ตั้งค่า Stop Loss (4000) และ Take Profit (12000) อย่างรัดกุม
+
+ระบบ Auto Lot (MM) ปรับ Lot อัตโนมัติตามพอร์ต (LotDivisor = 50000, MaxLot = 1.0)
+
+รองรับการเปิด-ปิดระบบ Auto Lot ได้ใน Input
+
+ตรวจสอบมาร์จิ้นก่อนเข้าไม้ และระบบ Retry อัตโนมัติเมื่อคำสั่งล้มเหลว (MaxRetries = 3)
+
+Multi-Broker Support:
+Filling Mode อัตโนมัติ (FOK / IOC / RETURN) รองรับการทำงานกับหลายโบรกเกอร์โดยไม่ต้องปรับแต่ง
+
+
+
+
+
+💰 ราคาเปิดตัวระดับพรีเมียม (Gogo Jungle Standards)
+
+ช่วงแรก (50–100 คนแรก): 55,000 เยน
+
+ราคาหลังจากนั้น: 1,000 ดอลลาร์สหรัฐฯ
+(สำหรับนักลงทุนตัวจริงที่มองหาเครื่องมือทำกำไรมาตรฐานระดับสากล ที่ไร้รอยต่อในช่วงไซด์เวย์และทำกำไรกระจายทุกเดือน)
+
 <img width="3000" height="3000" alt="NakaSiam_FixedChannel_EA" src="https://github.com/user-attachments/assets/4f73a00b-ddaf-4f9e-a5f8-f6ec4f1b565a" />
 
 ### รายงานผลการทดสอบกลยุทธ์ (Strategy Tester Report)
