@@ -13,7 +13,41 @@ https://www.facebook.com/share/p/1Ddh8VcQXR/
 ## Results shown below were tested under identical conditions.
 ___________________________________________________________________________
 
+___________________________________________________________________________
+<img width="3000" height="3000" alt="DRAGON SLEEP EA" src="https://github.com/user-attachments/assets/3cbcf645-fd1b-4f58-b878-f8e041797e37" />
 
+# ข้อมูลผลิตภัณฑ์: Dragon Sleep EA (มังกรหลับ)
+### ภาพรวมระบบ (System Overview)
+# ชื่อผลิตภัณฑ์: Dragon Sleep EA (มังกรหลับ)
+คู่เงินที่ใช้ทดสอบ: XAUUSD (ทองคำ)
+กรอบเวลา (Timeframe): H1
+ระยะเวลาทดสอบ: 2024.02.14 - 2026.08.08 (ข้อมูลสถิติย้อนหลัง 100% Real Ticks)
+# เงินทุนเริ่มต้น (Initial Deposit): 10,000.00 USD
+เลเวอเรจ (Leverage): 1:500
+ผลการดำเนินงานย้อนหลัง (Performance Results)
+# กำไรสุทธิรวม (Total Net Profit): 75,175.80 USD
+แฟกเตอร์กำไร (Profit Factor): 1.45
+แฟกเตอร์การฟื้นตัว (Recovery Factor): 6.70
+อัตราส่วนชาร์ป (Sharpe Ratio): 1.55
+# ดรอว์ดาวน์สูงสุดของบัญชี (Balance Drawdown Maximal): 8,922.00 USD (11.67%)
+ผลตอบแทนคาดหวังต่อไม้ (Expected Payoff): 121.25 USD
+สถิติการซื้อขาย (Trading Statistics)
+จำนวนออเดอร์ทั้งหมด (Total Trades): 620 เทรด (Buy: 308, Sell: 312)
+สัดส่วนไม้ที่ทำกำไร (Profit Trades): 36.29% (225 ไม้)
+# กำไรสูงสุดต่อไม้ (Largest Profit Trade): 8,211.20 USD
+ขาดทุนสูงสุดต่อไม้ (Largest Loss Trade): -4,628.80 USD
+สถิติการชนะติดต่อกันสูงสุด (Maximum Consecutive Wins): 6 ไม้
+สถิติการแพ้ติดต่อกันสูงสุด (Maximum Consecutive Losses): 9 ไม้
+ค่าเฉลี่ยการชนะ/แพ้ติดต่อกัน (Average Consecutive): ชนะเฉลี่ย 2 ไม้ / แพ้เฉลี่ย 3 ไม้
+พารามิเตอร์และการตั้งค่า (Inputs & Risk Management)
+# รูปแบบการทำงาน: เทรดตามกรอบแนวรับ-แนวต้านธรรมชาติของ Bollinger Bands (BB_Period = 15, BB_Deviation = 2.0)
+ขนาดล็อต (Lot Size): คงที่ InpLot = 0.20 (รองรับระบบ Auto Lot ตามเงื่อนไขพอร์ต)
+การจัดการความเสี่ยง (Risk Management):
+Stop Loss (SL): 4000 จุด
+Take Profit (TP): 12,000 จุด
+ระบบความปลอดภัย GogoJungle Checks: ผ่านเกณฑ์มาตรฐานความปลอดภัย ทั้งระบบตรวจสอบมาร์จิ้นก่อนออกไม้ (InpMinMarginLevel = 200%) 
+และระบบตรวจสอบความถูกต้องของตั๋ว/Symbol/Magic Number ป้องกันข้อผิดพลาดในการปิดออเดอร์อย่างสมบูรณ์
+___________________________________________________________________________
 <img width="3000" height="3000" alt="ICHIMOKU NAKA" src="https://github.com/user-attachments/assets/5e97bc6e-7a4c-4006-a3b7-2e79f8672202" /><img width="3000" height="3000" alt="ICHIMOKU NAKA 2" src="https://github.com/user-attachments/assets/2493c4c8-6820-4843-99a3-f120c74918a4" />
 ## 👑 ข้อมูลผลิตภัณฑ์: Ichimoku_NAKA (Professional Expert Advisor Suite - เวอร์ชันล่าสุด)
 # ชื่อสินค้า / แบรนด์
