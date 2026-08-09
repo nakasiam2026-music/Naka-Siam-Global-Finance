@@ -12,6 +12,8 @@ https://www.facebook.com/share/p/1Ddh8VcQXR/
 ## Currency : USD
 ## Results shown below were tested under identical conditions.
 ___________________________________________________________________________
+<img width="3000" height="3000" alt="ICHIMOKU NAKA" src="https://github.com/user-attachments/assets/5e97bc6e-7a4c-4006-a3b7-2e79f8672202" /><img width="3000" height="3000" alt="ICHIMOKU NAKA 2" src="https://github.com/user-attachments/assets/2493c4c8-6820-4843-99a3-f120c74918a4" />
+
 
 👑 ข้อมูลผลิตภัณฑ์: Ichimoku_NAKA (Professional Expert Advisor Suite - เวอร์ชันล่าสุด)
 ชื่อสินค้า / แบรนด์
