@@ -23,6 +23,7 @@ _____________________________________
 ___________________________________________________________________________
 ___________________________________________________________________________
 <img width="2048" height="2048" alt="shadow gorge" src="https://github.com/user-attachments/assets/39a5599c-44dd-442e-9970-c8007865bb3c" />
+<img width="683" height="345" alt="b" src="https://github.com/user-attachments/assets/a9eb2ce9-9a46-4b99-85e7-8197c1c0e3db" />
 
 # ชื่อEA: NAKA SHADOW GORGE
 ### คู่เงินที่รองรับ: XAUUSD (Gold)
@@ -47,6 +48,7 @@ ___________________________________________________________________________
 ___________________________________________________________________________
 ___________________________________________________________________________
 <img width="2048" height="2048" alt="shadow team" src="https://github.com/user-attachments/assets/c5da67d8-db4b-4bea-86b1-a988d73f0c0e" />
+<img width="683" height="345" alt="b" src="https://github.com/user-attachments/assets/e0ca6861-805c-4fa5-950e-a49f37fe62b8" />
 
 ### 📊 ข้อมูลผลิตภัณฑ์และผลการทดสอบ (Product Specifications & Backtest Data)
 # ชื่อ EA: Naka Shadow TEAM (Buy Only)
@@ -286,7 +288,7 @@ ________________________________________________________________________________
 <img width="3000" height="3000" alt="NITHI CIO System" src="https://github.com/user-attachments/assets/83ea8f20-9e1f-4c65-8854-790b1f00a6bf" />
 <img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/06a0f6d9-f1d8-41e9-aca0-977381465597" />
 
-## Expert: NITHI CIO System EA
+# Expert: NITHI CIO System EA
 Symbol: XAUUSDm
 Period: H1 (2024.07.17 - 2026.07.17)
 
@@ -298,21 +300,17 @@ Period: H1 (2024.07.17 - 2026.07.17)
 แท่งเทียน: 11820 จำนวนติ๊ก: 155930534
 สัญลักษณ์: 1
 
-## กำไรสุทธิรวม: 40,725.65
-
+# กำไรสุทธิรวม: 40,725.65
 การลดลงของยอดคงเหลือสัมบูรณ์: 1,975.18
 การลดลงของทุนสัมบูรณ์: 2,260.44
 กำไรขั้นต้น: 169,055.98
-
 การลดลงของยอดคงเหลือสูงสุด: 9,105.63 (17.11%) การลดลงของทุนสูงสุด: 10,249.32 (19.03%)
-
 ขาดทุนขั้นต้น: -128,330.33
 การลดลงของยอดคงเหลือสัมพัทธ์: 31.58% (3,703.97)
 การลดลงของทุนสัมพัทธ์: 37.45% (4 634.45)
 ปัจจัยกำไร: 1.32
 
 ## ผลตอบแทนที่คาดหวัง: 78.62
-
 ระดับมาร์จิน: 10056.60%
 ปัจจัยการฟื้นตัว: 3.97
 อัตราส่วน Sharpe: 1.83
@@ -322,7 +320,6 @@ AHPR: 1.0036 (0.36%)
 ผลลัพธ์ OnTester: 0
 GHPR: 1.0031 (0.31%)
 ข้อผิดพลาดมาตรฐาน LR: 5 153.01
-
 ## จำนวนการซื้อขายทั้งหมด: 518
 การซื้อขายแบบ Short (ชนะ %): 297 (41.41%)
 การซื้อขายแบบ Long (ชนะ %): 221 (47.51%)
@@ -345,7 +342,7 @@ ________________________________________________________________________________
 <img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/27ca061f-ad4c-418a-bdef-39aace51bb17" />
 
 
-## Expert: NUBTANG_INFINITE_THRONE
+# Expert: NUBTANG_INFINITE_THRONE
 Symbol: XAUUSDm
 Period: H1 (2024.07.26 - 2026.07.26)
 
@@ -358,37 +355,30 @@ Period: H1 (2024.07.26 - 2026.07.26)
 จำนวนการซื้อขาย: 156,372,952
 สัญลักษณ์: 1
 
-## กำไรสุทธิรวม: 120,528.76
+# กำไรสุทธิรวม: 120,528.76
 
 การลดลงของยอดคงเหลือสัมบูรณ์: 802.20
 การลดลงของเงินทุนสัมบูรณ์: 2,169.80
 กำไรขั้นต้น: 464,647.59
-
 การลดลงของยอดคงเหลือสูงสุด: 26,299.20 (21.16%) การลดลงของเงินทุนสูงสุด: 28,037.36 (22.51%)
-
 ขาดทุนขั้นต้น: -344,118.83
 การลดลงของยอดคงเหลือสัมพัทธ์: 30.42% (10,478.84)
 การลดลงของเงินทุนสัมพัทธ์: 36.32% (12 941.44)
 ปัจจัยกำไร: 1.35
-
 ผลตอบแทนที่คาดหวัง: 266.07
 ระดับมาร์จิน: 3959.45%
-
 ปัจจัยการฟื้นตัว: 4.30
 อัตราส่วน Sharpe: 1.94
-
 คะแนน Z: 1.27 (79.59%)
 AHPR: 1.0068 (0.68%)
 ความสัมพันธ์ LR: 0.96
 ผลลัพธ์ OnTester: 0
 GHPR: 1.0057 (0.57%)
 ข้อผิดพลาดมาตรฐาน LR: 10 117.68
-
 จำนวนการซื้อขายทั้งหมด: 453
 การซื้อขายแบบ Short (ชนะ %): 275 (37.45%)
 การซื้อขายแบบ Long (ชนะ %): 178 (45.51%)
 จำนวนดีลทั้งหมด: 906
-
 ดีลที่ได้กำไร (% ของทั้งหมด): 184 (40.62%)
 ดีลที่ขาดทุน (% ของทั้งหมด): 269 (59.38%)
 การซื้อขายที่ได้กำไรสูงสุด: 5,327.48
@@ -402,197 +392,171 @@ GHPR: 1.0057 (0.57%)
 การขาดทุนติดต่อกันเฉลี่ย: 2
 ________________________________________________________________________________________________________
 <img width="3000" height="3000" alt="Fast Stone Ratio TH" src="https://github.com/user-attachments/assets/a6f9f56c-21bd-4bb4-ad6c-4d5683066967" />
+<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/43270a5e-28df-4c13-9765-9dccd959a282" />
 
-## 🥇 Fast Stone Ratio
-Total Net Profit
-
-## +$46,489.20
+# 🥇 Fast Stone Ratio
+# Total Net Profit # +$46,489.20
 
 ## Performance Metrics
 Profit Factor : 1.32
 Sharpe Ratio : 1.41
 Recovery Factor : 3.13
-Max Drawdown : 24.74%
+## Max Drawdown : 24.74%
 Total Trades : 472
 ## Trading Style
-
 ## 🟥 High Growth
-
 ## Strategy Features
 Grid Trading
-Martingale (MaxSteps = 2)
-Multi-Timeframe MA Trend Filter
+### Martingale (MaxSteps = 2)
+### Multi-Timeframe MA Trend Filter
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 _______________________________________________________________________________________________
 <img width="3000" height="3000" alt="FaSangRuay_INFINITE" src="https://github.com/user-attachments/assets/8291e0cb-aadd-471a-8f93-07671dab9d08" />
+<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/27b9f10e-6822-4ff4-b5d7-12ed6140f779" />
 
-## 🥈FaSangRuay INFINITE
-## Total Net Profit
-
-## +$44,261.17
+# 🥈FaSangRuay INFINITE
+# Total Net Profit # +$44,261.17
 
 ## Performance Metrics
 Profit Factor : 1.13
 Sharpe Ratio : 1.61
 Recovery Factor : 2.12
-Max Drawdown : 28.81%
+## Max Drawdown : 28.81%
 Total Trades : 3,153
 ## Trading Style
-
 ##🟥 High Frequency Grid
-
 ## Strategy Features
 ## Dynamic Grid System
-Auto Clear Positions
-Dynamic Max Orders
-Portfolio Profit Lock (15%)
+# Auto Clear Positions
+# Dynamic Max Orders
+### Portfolio Profit Lock (15%)
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 _____________________________________________________________________________________________
 <img width="3000" height="3000" alt="NAKA SIAM ROMEO EA" src="https://github.com/user-attachments/assets/2bebb098-fc57-4a90-8d0c-590d7c259247" />
+<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/da3fdc57-8752-42f9-88aa-7fe1d07f08de" />
 
-## 🥉NAKA SIAM ROMEO EA
-## Total Net Profit
-
-## +$41,354.38
+# 🥉NAKA SIAM ROMEO EA
+# Total Net Profit # +$41,354.38
 
 ## Performance Metrics
 Profit Factor : 1.45
 Sharpe Ratio : 2.16
 Recovery Factor : 4.29
-Max Drawdown : 17.62%
+# Max Drawdown : 17.62%
 Total Trades : 341
 ## Trading Style
-
 ## 🟩Balanced Trend Following
-
 ## Strategy Features
 ## Bollinger Bands Strategy
 ## Trend Following
-Low Drawdown Design
+# Low Drawdown Design
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 ___________________________________________________________________________________________
 <img width="3000" height="3000" alt="EnvelopesThailand" src="https://github.com/user-attachments/assets/d300b2e0-2549-4cd7-9bef-13f019b16b9a" />
+<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/10bf5c57-ff22-47ad-bfac-a72d127f8499" />
 
-## 🏅Envelopes Thailand
-## Total Net Profit
-
-## +$35,589.61
+# 🏅Envelopes Thailand
+# Total Net Profit # +$35,589.61
 
 ## Performance Metrics
 Profit Factor : 1.30
 Sharpe Ratio : 2.16
 Recovery Factor : 4.21
-Max Drawdown : 14.61%
+# Max Drawdown : 14.61%
 Total Trades : 519
-
 ## Trading Style
-
 ## 🟦Conservative Trend
-
 ## Strategy Features
-## Moving Average
-## Envelopes Strategy
-Slope Threshold Filter
+# Moving Average
+# Envelopes Strategy
+# Slope Threshold Filter
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 ______________________________________________________________________________________________
 <img width="3000" height="3000" alt="FaSangRuay_TURBO" src="https://github.com/user-attachments/assets/e1418583-e956-4710-a635-abd72b04fbcf" />
+<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/bfaa8f72-82a6-4d8c-9ad7-77fa44aae1e2" />
 
-## 🏅FaSangRuay TURBO
-## Total Net Profit
-
-## +$35,239.71
-
+# 🏅FaSangRuay TURBO
+# Total Net Profit # +$35,239.71
 ## Performance Metrics
 Profit Factor : 1.13
 Sharpe Ratio : 1.46
 Recovery Factor : 3.41
-Max Drawdown : 20.72%
+# Max Drawdown : 20.72%
 Total Trades : 2,103
-## Trading Style
-
-## 🟥Dynamic Grid Trading
-
+# Trading Style
+# 🟥Dynamic Grid Trading
 ## Strategy Features
-## Auto Clear
-## Dynamic Max Orders
+# Auto Clear
+# Dynamic Max Orders
 Trailing Stop
 High Frequency Execution
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 ____________________________________________________________________________________________
 <img width="3000" height="3000" alt="STONIE RATIO AI" src="https://github.com/user-attachments/assets/53b4bbac-d3a8-4504-96e3-4e95b8f005f2" />
+<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/c54a0533-8af2-4bcb-9901-7b9d93ca15a0" />
 
-## 🏅STONE RATIO THAILAND
-## Total Net Profit
-
-## +$30,463.75
+# 🏅STONE RATIO THAILAND
+# Total Net Profit  # +$30,463.75
 
 ## Performance Metrics
 Profit Factor : 1.28
 Sharpe Ratio : 1.87
 Recovery Factor : 3.78
-Max Drawdown : 18.43%
+# Max Drawdown : 18.43%
 Total Trades : 450
 
 ## Trading Style
-
 ## 🟩Balanced Growth
-
 ## Strategy Features
 ## Grid Trading
-Trend Filter (MA MTF)
+# Trend Filter (MA MTF)
 Trailing Stop
 Stable Portfolio Management
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 _______________________________________________________________________________________________
 <img width="3000" height="3000" alt="Safe Martingale Thailand" src="https://github.com/user-attachments/assets/79047e4f-356c-4102-8aab-9dacd1ae86ae" />
+<img width="689" height="355" alt="s" src="https://github.com/user-attachments/assets/925b2636-76aa-4d14-b6c9-39a48823b2d2" />
 
-## 🏅Safe Martingale Thailand
-## Total Net Profit
-
-## +$23,670.65
+# 🏅Safe Martingale Thailand
+# Total Net Profit # +$23,670.65
 
 ## Performance Metrics
-Profit Factor : 1.46
-Sharpe Ratio : 2.19
-Recovery Factor : 5.36
-Max Drawdown : 12.31%
+## Profit Factor : 1.46
+## Sharpe Ratio : 2.19
+## Recovery Factor : 5.36
+# Max Drawdown : 12.31%
 Total Trades : 532
 Trading Style
-
 ## 🟦Capital Preservation
-
 ## Strategy Features
-## Safe Martingale (MaxSteps = 2)
-## Moving Average Filter
-## Envelopes Confirmation
+# Safe Martingale (MaxSteps = 2)
+# Moving Average Filter
+# Envelopes Confirmation
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 ___________________________________________________________________________________________
 <img width="3000" height="3000" alt="FaSanRuayTH" src="https://github.com/user-attachments/assets/98b470b4-a3b3-4cd5-99b7-2afbd9468c55" />
+<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/7669e52a-453a-4c56-8e00-91c854b85020" />
 
-## 🏅FaSangRuAY
-## Total Net Profit
-
-## +$18,693.39
+# 🏅FaSangRuAY
+# Total Net Profit # +$18,693.39
 
 ## Performance Metrics
 Profit Factor : 1.19
 Sharpe Ratio : 1.58
 Recovery Factor : 1.51
-Max Drawdown : 30.96%
+## Max Drawdown : 30.96%
 Total Trades : 1,843
 ## Trading Style
-
-## 🟥Adaptive Grid
-
+# 🟥Adaptive Grid
 ## Strategy Features
-## Dynamic Pending Distance
-## Auto Position Management
-## Dynamic Max Orders
+# Dynamic Pending Distance
+# Auto Position Management
+# Dynamic Max Orders
 Trailing Stop
 Stop Loss / Take Profit : 4,000 / 12,000 Points
 
@@ -600,40 +564,47 @@ Stop Loss / Take Profit : 4,000 / 12,000 Points
 
 ## Past performance does not guarantee future results.
 
-## All Expert Advisors were tested using historical market data under identical testing conditions. Actual trading performance may vary depending on broker conditions, spreads, execution quality, market volatility, and individual risk management.
+## All Expert Advisors were tested using historical market data under identical testing conditions. 
+## Actual trading performance may vary depending on broker conditions, spreads, 
+## execution quality, market volatility, and individual risk management.
 
-## Trading leveraged financial products involves substantial risk and may not be suitable for every investor.
+## Trading leveraged financial products involves 
+## substantial risk and may not be suitable for every investor.
 
-## NITHI CIO Portfolio Allocation
-## 🟢 Portfolio A — Balanced Portfolio
-## Objective: Stable Growth with Balanced Risk
+# NITHI CIO Portfolio Allocation
+
+# 🟢 Portfolio A — Balanced Portfolio
+# Objective: Stable Growth with Balanced Risk
+# Asset Allocation
+# NAKA SIAM ROMEO EA — 50%
+# Fast Stone Ratio — 50%
+
+# Suitable For
+# Medium Risk Investors
+# Long-Term Portfolio Growth
+# Balanced Risk / Return
+# Portfolio Character
+# Trend Following + Dynamic Grid
+
+# 🔵 Portfolio B — Growth Portfolio
+# Objective: Higher Growth Potential
+# Asset Allocation
+# Envelopes Thailand — 40%
+# FaSangRuay INFINITE — 60%
+## Suitable For
+## Growth Investors
+## Active Trading
+# Higher Return Expectations
+## Portfolio Character
+## Indicator Strategy + High Frequency Grid
+
+# 🟣 Portfolio C — Professional Portfolio
+# Objective: Diversified Professional Trading Portfolio
 ## Asset Allocation
-## NAKA SIAM ROMEO EA — 50%
-## Fast Stone Ratio — 50%
-Suitable For
-Medium Risk Investors
-Long-Term Portfolio Growth
-Balanced Risk / Return
-Portfolio Character
-Trend Following + Dynamic Grid
-## 🔵 Portfolio B — Growth Portfolio
-## Objective: Higher Growth Potential
-## Asset Allocation
-## Envelopes Thailand — 40%
-## FaSangRuay INFINITE — 60%
-Suitable For
-Growth Investors
-Active Trading
-Higher Return Expectations
-Portfolio Character
-Indicator Strategy + High Frequency Grid
-## 🟣 Portfolio C — Professional Portfolio
-## Objective: Diversified Professional Trading Portfolio
-## Asset Allocation
-## NAKA SIAM ROMEO EA — 30%
-## Envelopes Thailand — 20%
-## Fast Stone Ratio — 25%
-## FaSangRuay INFINITE — 25%
+# NAKA SIAM ROMEO EA — 30%
+# Envelopes Thailand — 20%
+# Fast Stone Ratio — 25%
+# FaSangRuay INFINITE — 25%
 ## Suitable For
 ## Professional Traders
 ## Multi-Strategy Portfolio
@@ -641,22 +612,28 @@ Indicator Strategy + High Frequency Grid
 ## Portfolio Character
 ## Trend Following + Mean Reversion + Dynamic Grid + Indicator Strategy
 
-## 🟡 Portfolio D — Conservative Portfolio
+# 🟡 Portfolio D — Conservative Portfolio
 ## Objective: Capital Preservation
-## Asset Allocation
-## Safe Martingale Thailand — 50%
-## Envelopes Thailand — 50%
-Suitable for investors who prioritize lower drawdown and stable equity growth over aggressive returns.
-## 🔴 Portfolio E — Aggressive Portfolio
-## Objective: Maximum Growth Potential
-## Asset Allocation
-## Fast Stone Ratio — 50%
-## FaSangRuay TURBO — 50%
-Designed for experienced traders seeking higher return potential while accepting increased portfolio volatility.
+# Asset Allocation
+# Safe Martingale Thailand — 50%
+# Envelopes Thailand — 50%
+## Suitable for investors who prioritize
+## lower drawdown and stable equity growth over aggressive returns.
 
-## Portfolio Philosophy
-Each Expert Advisor has its own trading logic and market behavior. Combining different strategies helps reduce correlation between systems while improving overall portfolio stability.
-Rather than relying on a single Expert Advisor, NITHI CIO Portfolio Allocation focuses on balancing multiple independent trading strategies to pursue more consistent long-term performance.
+# 🔴 Portfolio E — Aggressive Portfolio
+# Objective: Maximum Growth Potential
+## Asset Allocation
+# Fast Stone Ratio — 50%
+# FaSangRuay TURBO — 50%
+## Designed for experienced traders seeking higher return 
+## potential while accepting increased portfolio volatility.
+
+# Portfolio Philosophy
+## Each Expert Advisor has its own trading logic and market behavior. 
+##Combining different strategies helps reduce correlation between systems while improving overall portfolio stability.
+## Rather than relying on a single Expert Advisor, 
+#NITHI CIO Portfolio Allocation focuses on balancing multiple independent trading 
+## strategies to pursue more consistent long-term performance.
 _________________________________________________________________________________________________________________
 
 
