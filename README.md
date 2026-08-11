@@ -52,63 +52,58 @@ ___________________________________________________________________________
 <img width="3000" height="3000" alt="The Mountain Gold" src="https://github.com/user-attachments/assets/1d01b4c2-51b0-4b43-8651-396775f5fb45" />
 <img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/3b118377-beda-4658-9834-bba67bf589cc" />
 
-Expert Advisor: THE_MOUNTAIN_GOLD_EA
-Symbol: XAUUSD (Gold)
-Period / Timeframe: H1 (ช่วงวันที่ 2024.08.08 - 2026.08.10)
-Bollinger Bands Settings: InpBBPeriod = 20, InpBBDeviation = 0.2
-Risk Management:
-InpLotSize = 0.1
-Stop Loss = 4000 Points (400 Pips)
-Take Profit = 12000 Points (1200 Pips)
-Trailing Stop: ปิดใช้งาน (false)
-Initial Deposit: 10,000.00 USD (Leverage 1:500)
-ผลการทดสอบและสถิติสำคัญ (Results)
-History Quality: 100% real ticks
-Total Net Profit: 41,040.00 USD
-Profit Factor: 1.44
-Recovery Factor: 4.23
-Sharpe Ratio: 2.04
-Total Trades: 339 trades (Win Rate: 33.33%)
-Maximal Balance Drawdown: 9,399.20 (16.46%)
-Maximum Consecutive Wins: 9 ครั้ง (10,669.20 USD)
-Maximum Consecutive Losses: 12 ครั้ง (-4,902.90 USD)
-Average Consecutive Wins: 2
-Average Consecutive Losses: 3
+# Expert Advisor: THE_MOUNTAIN_GOLD_EA
+# Symbol: XAUUSD (Gold)
+### Period / Timeframe: H1 (ช่วงวันที่ 2024.08.08 - 2026.08.10)
+### Bollinger Bands Settings: InpBBPeriod = 20, InpBBDeviation = 0.2
+### Risk Management:
+### InpLotSize = 0.1
+### Stop Loss = 4000 Points (400 Pips)
+### Take Profit = 12000 Points (1200 Pips)
+### Trailing Stop: ปิดใช้งาน (false)
+### Initial Deposit: 10,000.00 USD (Leverage 1:500)
+# ผลการทดสอบและสถิติสำคัญ (Results)
+### History Quality: 100% real ticks
+# Total Net Profit: 41,040.00 USD
+### Profit Factor: 1.44
+### Recovery Factor: 4.23
+# Sharpe Ratio: 2.04
+### Total Trades: 339 trades (Win Rate: 33.33%)
+# Maximal Balance Drawdown: 9,399.20 (16.46%)
+### Maximum Consecutive Wins: 9 ครั้ง (10,669.20 USD)
+### Maximum Consecutive Losses: 12 ครั้ง (-4,902.90 USD)
+### Average Consecutive Wins: 2
+### Average Consecutive Losses: 3
 ___________________________________________________________________________
 <img width="3000" height="3000" alt="Gold Thai Memo" src="https://github.com/user-attachments/assets/753d00de-80a1-4a4f-b9e0-f408bec7b39d" />
 <img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/e8cdabfb-b51b-46a9-997d-1b763186f896" />
-
-GOLD_THAI_MEMO
-
-– ผลการทดสอบย้อนหลัง
-
-Symbol: XAUUSD
-Timeframe: H1
-ช่วงทดสอบ: 08/08/2024 – 10/08/2026
-เงินทุนเริ่มต้น: USD 10,000
-Leverage: 1:500
-ข้อมูลทดสอบ: 100% Real Ticks
-จำนวนการซื้อขาย: 527 ครั้ง
-ผลการทดสอบ
-
-กำไรสุทธิ: USD 25,859.40
-Profit Factor: 1.22
-Sharpe Ratio: 1.78
-Recovery Factor: 2.74
-Maximum Equity Drawdown: 22.45%
-Win Rate: 44.59%
-กำไรสูงสุดต่อรายการ: USD 1,850.40
-ขาดทุนสูงสุดต่อรายการ: -USD 783.10
-การตั้งค่าหลัก
-
-Lot Size: 0.10
-Stop Loss: 4,000 จุด  400 Pips = 4000 Point
-(หากใช้ทดสอบกับ ทองคำที่มีทศนิยม 3 ตำแหน่ง ต้องเพิ่ม 0 อีกหนึ่งตัว เป็น 40000 )
-Take Profit: 12,000 จุด 1200 Pips= 12000 Point
-(หากใช้ทดสอบกับ ทองคำที่มีทศนิยม 3 ตำแหน่ง ต้องเพิ่ม 0 อีกหนึ่งตัว เป็น 120000 )
-Trailing Stop: เปิดใช้งาน
-MA Period: 50
-Envelope Period: 50
+# GOLD_THAI_MEMO
+### – ผลการทดสอบย้อนหลัง
+# Symbol: XAUUSD
+## Timeframe: H1
+### ช่วงทดสอบ: 08/08/2024 – 10/08/2026
+### เงินทุนเริ่มต้น: USD 10,000
+### Leverage: 1:500
+### ข้อมูลทดสอบ: 100% Real Ticks
+### จำนวนการซื้อขาย: 527 ครั้ง
+# ผลการทดสอบ
+# กำไรสุทธิ: USD 25,859.40
+### Profit Factor: 1.22
+### Sharpe Ratio: 1.78
+### Recovery Factor: 2.74
+# Maximum Equity Drawdown: 22.45%
+### Win Rate: 44.59%
+### กำไรสูงสุดต่อรายการ: USD 1,850.40
+### ขาดทุนสูงสุดต่อรายการ: -USD 783.10
+### การตั้งค่าหลัก
+### Lot Size: 0.10
+### Stop Loss: 4,000 จุด  400 Pips = 4000 Point
+### (หากใช้ทดสอบกับ ทองคำที่มีทศนิยม 3 ตำแหน่ง ต้องเพิ่ม 0 อีกหนึ่งตัว เป็น 40000 )
+### Take Profit: 12,000 จุด 1200 Pips= 12000 Point
+### (หากใช้ทดสอบกับ ทองคำที่มีทศนิยม 3 ตำแหน่ง ต้องเพิ่ม 0 อีกหนึ่งตัว เป็น 120000 )
+## Trailing Stop: เปิดใช้งาน
+## MA Period: 50
+## Envelope Period: 50
 ___________________________________________________________________________
 <img width="2048" height="2048" alt="shadow gorge" src="https://github.com/user-attachments/assets/39a5599c-44dd-442e-9970-c8007865bb3c" />
 <img width="683" height="345" alt="b" src="https://github.com/user-attachments/assets/a9eb2ce9-9a46-4b99-85e7-8197c1c0e3db" />
