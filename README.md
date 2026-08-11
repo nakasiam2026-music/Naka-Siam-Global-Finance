@@ -77,8 +77,9 @@ ___________________________________________________________________________
 ___________________________________________________________________________
 <img width="3000" height="3000" alt="Gold Thai Memo" src="https://github.com/user-attachments/assets/753d00de-80a1-4a4f-b9e0-f408bec7b39d" />
 <img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/e8cdabfb-b51b-46a9-997d-1b763186f896" />
+
 # GOLD_THAI_MEMO
-### – ผลการทดสอบย้อนหลัง
+### ผลการทดสอบย้อนหลัง
 # Symbol: XAUUSD
 ## Timeframe: H1
 ### ช่วงทดสอบ: 08/08/2024 – 10/08/2026
