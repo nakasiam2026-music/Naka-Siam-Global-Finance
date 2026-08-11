@@ -1,14 +1,11 @@
-## 📊 NITHI CIO THAILAND
+# 📊 NITHI CIO THAILAND
 ## Professional MT5 Expert Advisors
-## 👤 About NITHI CIO THAILAND
+# 👤 About NITHI CIO THAILAND
 ## 📩 Contact 
 ## nitinan373@gmail.com
-## https://www.facebook.com/share/p/1Ddh8VcQXR/
-
 ## Backtest Environment
-
 ## Platform : MetaTrader 5
-## Data Quality : 100% Real Ticks
+# Data Quality : 100% Real Ticks
 ## Test Period : 2 – 2.5 Years
 ## Currency : USD
 ## Results shown below were tested under identical conditions.
