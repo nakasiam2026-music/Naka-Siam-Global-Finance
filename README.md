@@ -2,6 +2,7 @@
 ## Professional MT5 Expert Advisors
 ## 👤 About NITHI CIO THAILAND
 ## 📩 Contact 
+## nitinan373@gmail.com
 ## https://www.facebook.com/share/p/1Ddh8VcQXR/
 
 ## Backtest Environment
