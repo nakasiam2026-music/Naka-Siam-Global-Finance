@@ -20,7 +20,7 @@ _____________________________________
 การซื้อขายผลิตภัณฑ์ทางการเงินที่มีเลเวอเรจมีความเสี่ยงสูงและอาจไม่เหมาะสมสำหรับนักลงทุนทุกคน
 ___________________________________________________________________________
 <img width="3000" height="3000" alt="The Cloud Gold" src="https://github.com/user-attachments/assets/1cfe296b-8b8f-4f46-84f3-89d02d7d9487" />
-<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/cb945564-e481-4a4b-8f1a-dcafe71dc9a8" />
+<img width="679" height="352" alt="gh" src="https://github.com/user-attachments/assets/ed17b2b7-2e31-4430-b9ef-902a1d85feb8" />
 
 # Expert Advisor: THE_CLOUD_GOLD_EA
 ## Symbol: XAUUSD (Gold)
@@ -48,7 +48,7 @@ ___________________________________________________________________________
 ### Average Consecutive Losses: 3
 ___________________________________________________________________________
 <img width="3000" height="3000" alt="The Mountain Gold" src="https://github.com/user-attachments/assets/1d01b4c2-51b0-4b43-8651-396775f5fb45" />
-<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/3b118377-beda-4658-9834-bba67bf589cc" />
+<img width="679" height="352" alt="gh" src="https://github.com/user-attachments/assets/e536bfd1-d44c-42de-9951-7a78b6ae383e" />
 
 # Expert Advisor: THE_MOUNTAIN_GOLD_EA
 # Symbol: XAUUSD (Gold)
@@ -74,7 +74,7 @@ ___________________________________________________________________________
 ### Average Consecutive Losses: 3
 ___________________________________________________________________________
 <img width="3000" height="3000" alt="Gold Thai Memo" src="https://github.com/user-attachments/assets/753d00de-80a1-4a4f-b9e0-f408bec7b39d" />
-<img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/e8cdabfb-b51b-46a9-997d-1b763186f896" />
+<img width="679" height="352" alt="gh" src="https://github.com/user-attachments/assets/ad9f8a85-d264-4f9f-b4be-24b81ca9c348" />
 
 # GOLD_THAI_MEMO
 ### ผลการทดสอบย้อนหลัง
