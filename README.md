@@ -3,7 +3,7 @@
 ### 👤 About NITHI CIO THAILAND
 ## 📩 Contact 
 ## nitinan373@gmail.com
-[GogoJungle Profile](https://www.gogojungle.co.jp/users/722180?via=mymenu)
+<https://www.gogojungle.co.jp/users/722180?via=mymenu>
 
 ## Backtest Environment
 ## Platform : MetaTrader 5
