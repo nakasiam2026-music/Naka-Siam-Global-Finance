@@ -3,6 +3,8 @@
 ### 👤 About NITHI CIO THAILAND
 ## 📩 Contact 
 ## nitinan373@gmail.com
+https://www.gogojungle.co.jp/th/systemtrade/fx/83090
+
 ## Backtest Environment
 ## Platform : MetaTrader 5
 # Data Quality : 100% Real Ticks
