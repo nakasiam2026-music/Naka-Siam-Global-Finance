@@ -625,7 +625,7 @@ Stop Loss / Take Profit : 4,000 / 12,000 Points
 ___________________________________________________________________________________________
 <img width="3000" height="3000" alt="FaSanRuayTH" src="https://github.com/user-attachments/assets/98b470b4-a3b3-4cd5-99b7-2afbd9468c55" />
 <img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/7669e52a-453a-4c56-8e00-91c854b85020" />
-
+https://www.gogojungle.co.jp/th/systemtrade/fx/82871?via=users
 # 🏅FaSangRuAY
 # Total Net Profit # +$18,693.39
 
