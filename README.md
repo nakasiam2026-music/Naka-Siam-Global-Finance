@@ -96,15 +96,7 @@ ___________________________________________________________________________
 ### Win Rate: 44.59%
 ### กำไรสูงสุดต่อรายการ: USD 1,850.40
 ### ขาดทุนสูงสุดต่อรายการ: -USD 783.10
-### การตั้งค่าหลัก
-### Lot Size: 0.10
-### Stop Loss: 4,000 จุด  400 Pips = 4000 Point
-### (หากใช้ทดสอบกับ ทองคำที่มีทศนิยม 3 ตำแหน่ง ต้องเพิ่ม 0 อีกหนึ่งตัว เป็น 40000 )
-### Take Profit: 12,000 จุด 1200 Pips= 12000 Point
-### (หากใช้ทดสอบกับ ทองคำที่มีทศนิยม 3 ตำแหน่ง ต้องเพิ่ม 0 อีกหนึ่งตัว เป็น 120000 )
-## Trailing Stop: เปิดใช้งาน
-## MA Period: 50
-## Envelope Period: 50
+
 ___________________________________________________________________________
 <img width="2048" height="2048" alt="shadow gorge" src="https://github.com/user-attachments/assets/39a5599c-44dd-442e-9970-c8007865bb3c" />
 <img width="683" height="345" alt="b" src="https://github.com/user-attachments/assets/a9eb2ce9-9a46-4b99-85e7-8197c1c0e3db" />
@@ -181,12 +173,7 @@ ___________________________________________________________________________
 สถิติการชนะติดต่อกันสูงสุด (Maximum Consecutive Wins): 6 ไม้
 สถิติการแพ้ติดต่อกันสูงสุด (Maximum Consecutive Losses): 9 ไม้
 ค่าเฉลี่ยการชนะ/แพ้ติดต่อกัน (Average Consecutive): ชนะเฉลี่ย 2 ไม้ / แพ้เฉลี่ย 3 ไม้
-พารามิเตอร์และการตั้งค่า (Inputs & Risk Management)
-# รูปแบบการทำงาน: เทรดตามกรอบแนวรับ-แนวต้านธรรมชาติของ Bollinger Bands (BB_Period = 15, BB_Deviation = 2.0)
-ขนาดล็อต (Lot Size): คงที่ InpLot = 0.20 (รองรับระบบ Auto Lot ตามเงื่อนไขพอร์ต)
-การจัดการความเสี่ยง (Risk Management):
-Stop Loss (SL): 4000 จุด
-Take Profit (TP): 12,000 จุด
+
 ระบบความปลอดภัย GogoJungle Checks: ผ่านเกณฑ์มาตรฐานความปลอดภัย ทั้งระบบตรวจสอบมาร์จิ้นก่อนออกไม้ (InpMinMarginLevel = 200%) 
 และระบบตรวจสอบความถูกต้องของตั๋ว/Symbol/Magic Number ป้องกันข้อผิดพลาดในการปิดออเดอร์อย่างสมบูรณ์
 ___________________________________________________________________________
@@ -211,21 +198,6 @@ H1 (Hourly Chart)
 # อัตราส่วน Sharpe (Sharpe Ratio): 1.95 (เสถียรภาพสูงระดับมาสเตอร์พีซ)
 LR Correlation (ความชันเส้นกำไร): 0.89 (การันตีเส้นพอร์ตพุ่งขึ้นเป็นระเบียบ)
 จำนวนการเทรดทั้งหมด (Total Trades): 752 ออเดอร์ (ฝั่ง Short 45.08% / Long 36.72%)
-
-# ⚙️ จุดเด่นและระบบบริหารความเสี่ยง (Settings & Features - เวอร์ชันล่าสุด)
-## Slope & Strategy Settings:
-## ขับเคลื่อนด้วยระบบ Ichimoku (Tenkan = 9 / Kijun = 26 / Senkou Span B = 52) ผสานกับความชัน SMA 22 (InpMAPeriod = 22) พร้อมกรองสัญญาณด้วยเงื่อนไขความชัน (InpSlopeThreshold = 0.5) ไม่ทำนายตลาด แต่ปีนป่ายไปตามโมเมนตัมและความชันที่แท้จริง
-# Invisible Grid (กริดล่องหน):
-## เติมไม้กลางทางโดยไม่ต้องวาง Pending ให้ใครเห็น เปิดตำแหน่งเพิ่มตามระยะที่ตั้ง (GridDistance = 4000) จำกัดจำนวนไม้ไม่เกิน 2 ไม้ (MaxGridOrders = 2) เพื่อควบคุมความเสี่ยงแบบจัดเต็ม
-Step Trailing Stop:
-ระบบล็อกกำไรอัตโนมัติแบบเป็นขั้นบันได (TrailStart = 4000 / TrailStep = 4000) ล็อกกำไรแล้วเดินหน้าลุยต่ออย่างไร้ความกังวล
-Risk Management & Target:
-ตั้งค่า Stop Loss (4000) และ Take Profit (12000) อย่างรัดกุม
-ระบบ Auto Lot (MM) ปรับ Lot อัตโนมัติตามพอร์ต (LotDivisor = 50000, MaxLot = 1.0)
-รองรับการเปิด-ปิดระบบ Auto Lot ได้ใน Input
-ตรวจสอบมาร์จิ้นก่อนเข้าไม้ และระบบ Retry อัตโนมัติเมื่อคำสั่งล้มเหลว (MaxRetries = 3)
-Multi-Broker Support:
-Filling Mode อัตโนมัติ (FOK / IOC / RETURN) รองรับการทำงานกับหลายโบรกเกอร์โดยไม่ต้องปรับแต่ง
 
 # 💰 ราคาเปิดตัวระดับพรีเมียม (Gogo Jungle Standards)
 ## ช่วงแรก (50–100 คนแรก): 55,000 เยน
@@ -317,16 +289,6 @@ _________________________________________________________________________
 ## LR Correlation (ความชันเส้นกำไร): 0.98 (การันตีเส้นพอร์ตพุ่งขึ้นสวยงามเป็นระเบียบ)
 ## จำนวนการเทรดทั้งหมด (Total Trades): 2,631 ออเดอร์ (ฝั่ง Long ทำกำไรเด่นชัดถึง 59.50%)
 
-## ⚙️ จุดเด่นและระบบบริหารความเสี่ยง (Settings & Features - เวอร์ชันล่าสุด)
-Slope & Strategy Settings: ขับเคลื่อนด้วยระบบวิเคราะห์ทิศทางความชัน SMA 50 (InpSmaPeriod = 50) 
-พร้อมกรองสัญญาณด้วยเงื่อนไขความชันและโซนที่แม่นยำ (InpMinSlope, InpZoneBuffer) ไม่ทำนายตลาด แต่ปีนป่ายไปตามโมเมนตัมและความชันที่แท้จริง
-
-## Risk Management & Target:
-ตั้งเป้าเก็บกำไรยืดหยุ่นรอบละ 10% (InpTargetPercent = 10)
-ระบบล็อตเริ่มต้น (InpBaseLot = 0.1 ต่อบาลานซ์ 10,000) พร้อมจำกัดจำนวนออเดอร์สูงสุดไม่เกิน 20 ไม้
-กำหนดระยะ Stop Loss (40000) และ Take Profit (120000) อย่างรัดกุม
-Step Trailing Stop: ระบบล็อกกำไรอัตโนมัติแบบเป็นขั้นบันได (TrailStart = 40000, TrailStep = 60000) ล็อกกำไรแล้วเดินหน้าลุยต่ออย่างไร้ความกังวล
-
 ## 💰 ราคาเปิดตัวระดับพรีเมียม (Gogo Jungle Standards)
 ## ช่วงแรก (50–100 คนแรก): 75,000 เยน
 
@@ -357,12 +319,6 @@ ________________________________________________________________________________
 การจัดการความเสี่ยง (Risk Management):
 InpBaseLot: 0.1 (ต่อทุนเริ่มต้น 10,000 USD)
 
-## InpTargetPercent: 2% (เป้าหมายการปิดคำสั่งสะสมอัตโนมัติเมื่อถึงกำไรที่กำหนด)
-InpMaxOrders: 10 คำสั่ง (จำกัดจำนวนไมไม้สูงสุดต่อรอบการทำงาน)
-InpStopLoss / InpTakeProfit: 300,000 (300 pips) / 500,000 (500 pips) (กรอบจำกัดความเสี่ยงระดับโครงสร้าง)
-## ระบบการติดตามราคาและโมเมนตั้ม (Dynamic Trailing & Momentum Settings):
-เปิดใช้งานระบบ Trailing เริ่มต้นที่ระยะ 300,000 (300 pips) และขยับทีละ 200,000 (200 pips)
-ค่าเฉลี่ย SMA Period 50 และตัวกรองความชัน (Min Slope 0.0001) สำหรับคัดกรองทิศทางแนวโน้ม
 ## คำแนะนำสำหรับผู้ใช้งาน (User Guidelines & Risk Disclosure)
 ธรรมชาติของสินทรัพย์: Bitcoin เป็นสินทรัพย์ที่มีความผันผวนสูงมาก ผู้ใช้งานควรทำความเข้าใจและยอมรับความเสี่ยงที่อาจเกิดขึ้นจากสภาพตลาดที่รุนแรง
 การบริหารเงินทุน: แนะนำให้ตั้งค่าขนาดล็อต (Lot Size) ให้สอดคล้องกับเงินทุนจริงของท่าน และควรมีการบริหารจัดการพอร์ตอย่างเหมาะสม (Money Management)
@@ -489,12 +445,7 @@ Recovery Factor : 3.13
 Total Trades : 472
 ## Trading Style
 ## 🟥 High Growth
-## Strategy Features
-Grid Trading
-### Martingale (MaxSteps = 2)
-### Multi-Timeframe MA Trend Filter
-Trailing Stop
-Stop Loss / Take Profit : 4,000 / 12,000 Points
+
 _______________________________________________________________________________________________
 <img width="3000" height="3000" alt="FaSangRuay_INFINITE" src="https://github.com/user-attachments/assets/8291e0cb-aadd-471a-8f93-07671dab9d08" />
 <img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/27b9f10e-6822-4ff4-b5d7-12ed6140f779" />
@@ -508,15 +459,7 @@ Sharpe Ratio : 1.61
 Recovery Factor : 2.12
 ## Max Drawdown : 28.81%
 Total Trades : 3,153
-## Trading Style
-##🟥 High Frequency Grid
-## Strategy Features
-## Dynamic Grid System
-# Auto Clear Positions
-# Dynamic Max Orders
-### Portfolio Profit Lock (15%)
-Trailing Stop
-Stop Loss / Take Profit : 4,000 / 12,000 Points
+
 _____________________________________________________________________________________________
 <img width="3000" height="3000" alt="NAKA SIAM ROMEO EA" src="https://github.com/user-attachments/assets/2bebb098-fc57-4a90-8d0c-590d7c259247" />
 <img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/da3fdc57-8752-42f9-88aa-7fe1d07f08de" />
@@ -532,12 +475,7 @@ Recovery Factor : 4.29
 Total Trades : 341
 ## Trading Style
 ## 🟩Balanced Trend Following
-## Strategy Features
-## Bollinger Bands Strategy
-## Trend Following
-# Low Drawdown Design
-Trailing Stop
-Stop Loss / Take Profit : 4,000 / 12,000 Points
+
 ___________________________________________________________________________________________
 <img width="3000" height="3000" alt="EnvelopesThailand" src="https://github.com/user-attachments/assets/d300b2e0-2549-4cd7-9bef-13f019b16b9a" />
 <img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/10bf5c57-ff22-47ad-bfac-a72d127f8499" />
@@ -551,14 +489,6 @@ Sharpe Ratio : 2.16
 Recovery Factor : 4.21
 # Max Drawdown : 14.61%
 Total Trades : 519
-## Trading Style
-## 🟦Conservative Trend
-## Strategy Features
-# Moving Average
-# Envelopes Strategy
-# Slope Threshold Filter
-Trailing Stop
-Stop Loss / Take Profit : 4,000 / 12,000 Points
 ______________________________________________________________________________________________
 <img width="3000" height="3000" alt="FaSangRuay_TURBO" src="https://github.com/user-attachments/assets/e1418583-e956-4710-a635-abd72b04fbcf" />
 <img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/bfaa8f72-82a6-4d8c-9ad7-77fa44aae1e2" />
@@ -571,14 +501,6 @@ Sharpe Ratio : 1.46
 Recovery Factor : 3.41
 # Max Drawdown : 20.72%
 Total Trades : 2,103
-# Trading Style
-# 🟥Dynamic Grid Trading
-## Strategy Features
-# Auto Clear
-# Dynamic Max Orders
-Trailing Stop
-High Frequency Execution
-Stop Loss / Take Profit : 4,000 / 12,000 Points
 ____________________________________________________________________________________________
 <img width="3000" height="3000" alt="STONIE RATIO AI" src="https://github.com/user-attachments/assets/53b4bbac-d3a8-4504-96e3-4e95b8f005f2" />
 <img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/c54a0533-8af2-4bcb-9901-7b9d93ca15a0" />
@@ -595,12 +517,6 @@ Total Trades : 450
 
 ## Trading Style
 ## 🟩Balanced Growth
-## Strategy Features
-## Grid Trading
-# Trend Filter (MA MTF)
-Trailing Stop
-Stable Portfolio Management
-Stop Loss / Take Profit : 4,000 / 12,000 Points
 _______________________________________________________________________________________________
 <img width="3000" height="3000" alt="Safe Martingale Thailand" src="https://github.com/user-attachments/assets/79047e4f-356c-4102-8aab-9dacd1ae86ae" />
 <img width="689" height="355" alt="s" src="https://github.com/user-attachments/assets/925b2636-76aa-4d14-b6c9-39a48823b2d2" />
@@ -616,12 +532,6 @@ ________________________________________________________________________________
 Total Trades : 532
 Trading Style
 ## 🟦Capital Preservation
-## Strategy Features
-# Safe Martingale (MaxSteps = 2)
-# Moving Average Filter
-# Envelopes Confirmation
-Trailing Stop
-Stop Loss / Take Profit : 4,000 / 12,000 Points
 ___________________________________________________________________________________________
 <img width="3000" height="3000" alt="FaSanRuayTH" src="https://github.com/user-attachments/assets/98b470b4-a3b3-4cd5-99b7-2afbd9468c55" />
 <img width="686" height="355" alt="h" src="https://github.com/user-attachments/assets/7669e52a-453a-4c56-8e00-91c854b85020" />
@@ -635,18 +545,10 @@ Sharpe Ratio : 1.58
 Recovery Factor : 1.51
 ## Max Drawdown : 30.96%
 Total Trades : 1,843
-## Trading Style
-# 🟥Adaptive Grid
-## Strategy Features
-# Dynamic Pending Distance
-# Auto Position Management
-# Dynamic Max Orders
-Trailing Stop
-Stop Loss / Take Profit : 4,000 / 12,000 Points
 
-## 📌Risk Disclosure
+# 📌Risk Disclosure
 
-## Past performance does not guarantee future results.
+# Past performance does not guarantee future results.
 
 ## All Expert Advisors were tested using historical market data under identical testing conditions. 
 ## Actual trading performance may vary depending on broker conditions, spreads, 
