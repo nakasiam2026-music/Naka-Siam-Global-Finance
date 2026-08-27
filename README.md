@@ -3,6 +3,7 @@
 ### 👤 About NITHI CIO THAILAND
 ## 📩 Contact 
 ## nitinan373@gmail.com
+## https://nitinan789.wordpress.com/about/
 ## <https://www.gogojungle.co.jp/users/722180>
 
 ## Backtest Environment
